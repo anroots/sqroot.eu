@@ -1,0 +1,9 @@
+position: 4
+name: Snarky Doorbell
+website: https://sqroot.eu/2017/snarky-doorbell
+github: https://github.com/anroots/snarky-doorbell
+video: https://www.youtube.com/embed/ut_KckcVxW0
+description: >
+  Snarky Doorbell is an IoT doorbell with an attitude. Instead of a monotonic
+  "ding-dong", it responds with a snarky voice comment whenever our office
+  doorbell is rung.

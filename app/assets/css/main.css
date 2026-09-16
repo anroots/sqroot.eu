@@ -1,0 +1,85 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+@source "../../../content/pages";
+
+/* Dark mode is driven by a class on <html>, toggled by ThemeToggle (falls back to system) */
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-sans: "Montserrat", ui-sans-serif, system-ui, sans-serif;
+
+  --color-brand: #0085a1;
+  --color-brand-dark: #00657a;
+  --color-ink: #333333;
+  --color-ink-muted: #808080;
+  --color-paper: #ffffff;
+  --color-paper-muted: #eeeeee;
+  --color-night: #0f1418;
+  --color-night-muted: #1a2229;
+  --color-matrix: #00ff00;
+}
+
+@layer base {
+  html {
+    color-scheme: light;
+    scroll-behavior: smooth;
+  }
+  html.dark {
+    color-scheme: dark;
+  }
+  body {
+    @apply bg-paper text-ink font-sans antialiased dark:bg-night dark:text-neutral-200;
+  }
+  ::selection {
+    @apply bg-brand text-white;
+  }
+  /* Reversed e-mail obfuscation used on About / Workshops */
+  .reverse-text {
+    unicode-bidi: bidi-override;
+    direction: rtl;
+  }
+}
+
+@layer components {
+  /* Long-form article prose (posts, about, workshops) */
+  .article {
+    @apply prose prose-lg max-w-none dark:prose-invert
+      prose-headings:font-extrabold prose-headings:tracking-tight
+      prose-a:text-brand prose-a:underline prose-a:decoration-brand/40 hover:prose-a:decoration-brand
+      prose-blockquote:border-brand prose-blockquote:text-ink-muted dark:prose-blockquote:text-neutral-400
+      prose-img:rounded-sm prose-img:w-full
+      prose-pre:rounded-sm prose-pre:border prose-pre:border-neutral-200 dark:prose-pre:border-neutral-700
+      prose-code:before:content-none prose-code:after:content-none;
+  }
+  .article iframe {
+    @apply max-w-full;
+  }
+  .article picture {
+    @apply block my-8;
+  }
+  .article picture img {
+    @apply my-0;
+  }
+  /* Tweets embedded as plain blockquotes (Twitter widgets.js is no longer loaded) */
+  .article blockquote.twitter-tweet {
+    @apply not-italic border-l-4 border-sky-500 bg-sky-50 dark:bg-sky-950/40 px-5 py-3 rounded-r-sm text-base;
+  }
+  .article blockquote.twitter-tweet::before {
+    content: "Tweet";
+    @apply block text-xs font-extrabold uppercase tracking-wider text-sky-600 dark:text-sky-400 mb-1;
+  }
+  /* Shiki dual themes */
+  .dark .shiki,
+  .dark .shiki span {
+    color: var(--shiki-dark) !important;
+    background-color: var(--shiki-dark-bg) !important;
+  }
+  /* Uppercase, letter-spaced label style used in nav, buttons and pagination */
+  .label-caps {
+    @apply text-xs font-extrabold uppercase tracking-widest;
+  }
+  .btn {
+    @apply inline-flex items-center gap-2 border-2 border-current px-5 py-3 text-xs font-extrabold uppercase tracking-widest no-underline
+      transition-colors hover:bg-brand hover:border-brand hover:text-white;
+  }
+}

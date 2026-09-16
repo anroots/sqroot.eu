@@ -1,10 +1,18 @@
-_site
+# Nuxt
+.nuxt
+.output
+.data
+.cache
 node_modules/
-.jekyll-metadata
-Gemfile.lock
-_assets/lib/
-.sass-cache/
-vendor/
-.bundle/
-.jekyll-cache
-content/resized
+dist
+*.log
+
+# Wrangler
+.wrangler
+
+# OS / editors
+.DS_Store
+.idea
+
+# Local tooling
+.claude/

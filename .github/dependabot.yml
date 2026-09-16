@@ -1,0 +1,16 @@
+version: 2
+updates:
+  - package-ecosystem: npm
+    directory: /
+    schedule:
+      interval: monthly
+    groups:
+      nuxt:
+        patterns: ["nuxt", "@nuxt/*", "@nuxtjs/*", "vue", "vue-router"]
+      tooling:
+        patterns: ["*"]
+        exclude-patterns: ["nuxt", "@nuxt/*", "@nuxtjs/*", "vue", "vue-router"]
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: monthly

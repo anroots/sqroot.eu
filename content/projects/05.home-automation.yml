@@ -1,0 +1,7 @@
+position: 5
+name: Home Automation
+github: https://github.com/anroots/mysensors
+image: /content/site/projects/openhab.jpg
+description: >
+  I am building my own smart home! The home contains MySensors - custom-build
+  IoT sensors.

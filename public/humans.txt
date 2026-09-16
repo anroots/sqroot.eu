@@ -1,0 +1,5 @@
+SQroot.eu blog
+
+Developer: Ando Roots <ando@sqroot.eu>
+Blog engine: [Nuxt](https://nuxt.com)
+Theme: custom, descended from Start Bootstrap Clean Blog

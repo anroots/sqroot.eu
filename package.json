@@ -1,18 +1,44 @@
 {
   "name": "sqroot.eu",
-  "version": "0.0.0",
-  "description": "Blog",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Source of the sqroot.eu blog – a Nuxt 4 static site",
+  "type": "module",
   "repository": {
     "type": "git",
-    "url": "git@github.com:anroots/sqroot.eu.git"
+    "url": "git+https://github.com/sqroot-eu/sqroot.eu.git"
   },
-  "author": "Ando Roots",
+  "author": "Ando Roots <ando@sqroot.eu>",
   "license": "Apache-2.0",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "dev": "nuxt dev",
+    "clean": "rm -rf .nuxt .output .data node_modules/.cache/nuxt node_modules/.cache/jiti",
+    "build": "nuxt build",
+    "generate": "nuxt generate && node scripts/postbuild.mjs",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "verify": "node scripts/verify-migration.mjs",
+    "pages:dev": "wrangler pages dev .output/public"
+  },
+  "dependencies": {
+    "@iconify-json/lucide": "^1.2.0",
+    "@iconify-json/simple-icons": "^1.2.0",
+    "@nuxt/content": "^3.16.0",
+    "@nuxt/fonts": "^0.14.0",
+    "@nuxt/icon": "^2.0.0",
+    "@nuxt/image": "^2.1.0",
+    "@tailwindcss/typography": "^0.5.20",
+    "@tailwindcss/vite": "^4.3.0",
+    "feed": "^6.0.0",
+    "nuxt": "^4.5.0",
+    "tailwindcss": "^4.3.0",
+    "vue": "^3.5.0",
+    "vue-router": "^4.5.0"
+  },
   "devDependencies": {
-    "bootstrap": "^4.3",
-    "jquery": "^3.5",
-    "jshint": "~2.13",
-    "popper.js": "^1.14.3",
-    "typeface-montserrat": "0.0.75"
+    "wrangler": "^4.0.0"
   }
 }

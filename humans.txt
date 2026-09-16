@@ -1,5 +1,0 @@
-SQroot.eu blog
-
-Developer: Ando Roots <ando@sqroot.eu>
-Blog engine: [Jekyll](http://jekyllrb.com)
-Theme: [Start Bootstrap Clean Theme](https://github.com/IronSummitMedia/startbootstrap-clean-blog)
