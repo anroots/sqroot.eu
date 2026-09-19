@@ -76,4 +76,4 @@ I've participated in the hackathon three times now and after each event, my IT-s
 My team - our team - was selected as the <strong>Runner-Up, Favourite of the Audience</strong> - thanks for that! I respect NO99 and the brave lady who decided to push the project into action and I have little doubt that once we clean up the code (because, let's face it, hackathons are hackish) and develop the product a little further, there'll be NO99 tickets available on the move. The morale of the story - you have an idea, G48 has the people who volunteer to make it happen - just convince us within 90 seconds.
 ![Demo](/content/2012/03/demo.jpg)
 ![The team](/content/2012/03/team.jpg)
-\* All used images were made publicly available via other channels (Facebook). Write to ando@sqroot.eu to have them removed.
+\* All used images were made publicly available via other channels (Facebook). Write to :email-address to have them removed.

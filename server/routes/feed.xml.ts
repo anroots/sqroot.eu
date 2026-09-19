@@ -1,7 +1,7 @@
 import { Feed } from 'feed'
 import { queryCollection } from '@nuxt/content/server'
 
-const SITE = { title: 'SQroot.eu', url: 'https://sqroot.eu', description: 'A personal engineering blog', author: 'Ando Roots', email: 'ando@sqroot.eu' }
+const SITE = { title: 'SQroot.eu', url: 'https://sqroot.eu', description: 'A personal engineering blog', author: 'Ando Roots' }
 
 /** First paragraph of a minimark body as plain text (used as the item description). */
 function firstParagraph(body: any): string {
@@ -34,7 +34,7 @@ export default defineEventHandler(async (event) => {
     copyright: `© ${SITE.author}`,
     generator: 'Nuxt',
     feedLinks: { rss: `${SITE.url}/feed.xml` },
-    author: { name: SITE.author, email: SITE.email, link: SITE.url },
+    author: { name: SITE.author, link: SITE.url },
   })
 
   for (const post of posts as any[]) {

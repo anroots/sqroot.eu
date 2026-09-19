@@ -1,2 +1,1 @@
 Contact: ando@sqroot.eu
-Encryption: https://keybase.io/anroots/pgp_keys.asc

@@ -3,7 +3,7 @@ updates:
   - package-ecosystem: npm
     directory: /
     schedule:
-      interval: monthly
+      interval: quarterly
     groups:
       nuxt:
         patterns: ["nuxt", "@nuxt/*", "@nuxtjs/*", "vue", "vue-router"]
@@ -13,4 +13,4 @@ updates:
   - package-ecosystem: github-actions
     directory: /
     schedule:
-      interval: monthly
+      interval: quarterly

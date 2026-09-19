@@ -39,6 +39,8 @@ const lang = (f) => {
   if (/^(rules|conf|ini|cfg|txt)$/.test(ext)) return 'text'
   return LANG[(f.language || '').toLowerCase()] || LANG[ext] || ext || 'text'
 }
+// Keep the author's address out of the generated site in a form address harvesters recognise
+const obfuscateEmail = (s) => s.replace(/\bando@sqroot\.eu\b/g, 'ando [at] sqroot [dot] eu')
 const yamlStr = (s) => JSON.stringify(String(s ?? ''))
 
 mkdirSync(OUT, { recursive: true })
@@ -55,7 +57,7 @@ for (const id of ids) {
   const files = Object.values(g.files)
   const fence = '`'.repeat(Math.max(3, ...files.map((f) => (f.content.match(/`+/g) || ['']).reduce((a, b) => Math.max(a, b.length), 0) + 1)))
   const body = files
-    .map((f) => `${fence}${lang(f)} [${f.filename}]\n${f.content.replace(/\r\n/g, '\n').replace(/\n+$/, '')}\n${fence}`)
+    .map((f) => `${fence}${lang(f)} [${f.filename}]\n${obfuscateEmail(f.content.replace(/\r\n/g, '\n').replace(/\n+$/, ''))}\n${fence}`)
     .join('\n\n')
   const md = `---
 title: ${yamlStr(g.description || files[0]?.filename || id)}

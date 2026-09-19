@@ -9,7 +9,6 @@
   Cross-Origin-Resource-Policy: same-origin
   X-Want-To-Work-With: Cyber Security & HTTP API-s
   X-Recruitment: https://linkedin.com/in/anroots
-  X-Powered-By: Nuxt
 
 # Hashed build assets never change: cache them for a year
 /_nuxt/*
