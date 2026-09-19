@@ -35,7 +35,7 @@ Special embeds are Vue components, written in [MDC](https://content.nuxt.com/doc
 
 | Embed | Markdown | Notes |
 |---|---|---|
-| GitHub gist | `::gist{id="4647548"}` `::` | Gist source is vendored into `content/gists/<id>.json` – run `node scripts/fetch-gists.mjs` after adding a new one |
+| GitHub gist | `::gist{id="4647548"}` `::` | Gist source is vendored into `content/gists/<id>.md` – run `node scripts/fetch-gists.mjs` after adding a new one |
 | asciinema recording | `::asciinema{id="18935"}` `::` | Loads the asciinema player on the client |
 
 Reading time and word count are computed at build time (`modules/content-hooks.ts`). The same module
@@ -70,9 +70,9 @@ config did, belong in Cloudflare WAF rules.
 
 ## History
 
-2009–2011: WordPress · 2011–2026: Jekyll · 2026–: Nuxt. The Jekyll→Nuxt migration was done with
-`scripts/migrate-posts.mjs`, which only rewrote front matter and Jekyll plugin tags; post text was
-never edited.
+2009–2011: WordPress · 2011–2026: Jekyll · 2026–: Nuxt. The Jekyll→Nuxt migration was a one-off
+codemod (see the "Migrate the blog from Jekyll to Nuxt 4" commit) that only rewrote front matter and
+Jekyll plugin tags; post text was never edited.
 
 ## License
 
