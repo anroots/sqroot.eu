@@ -20,6 +20,7 @@ Passion, of course, changes everything: dull problems become exciting and the go
 “Focus on the journey, not the destination. Joy is found not in finishing an activity but in doing it.”<br />
 Greg Anderson
 </blockquote>
+
 I guess what I'm trying to say is that coding is never dull when done by passionate people... and so, neither is an exam.
 The source code for my assignment can be seen <a href="https://github.com/anroots/ITK-projects/tree/master/C%23/Eksam/">over @ GitHub</a> (with the instructors permission). The solution was praised and graded 100%.
 ![Screenshot](/content/2012/01/vector1.png)

@@ -216,7 +216,7 @@ Finally (I'm not [Dr. Horrible](http://drhorrible.com) to keep this up for weeks
 
 ![Activating the doorbell from Fleep](/content/2015/09/doorbell/fleep.png)
 
-* "So it is Moonica [Hubot]!"
+* "So it is Moonica \[Hubot\]!"
 * "Enough of this nonsense, you people aren't the ones who normally open the door"
 * "So this month' fun prize goes to Ando - I guess :)"
 * "((Y)) impressive prank and implementation, nerdy stuff"
@@ -232,4 +232,4 @@ All the project files - hardware schematics, firmware, Hubot script and HTTP POS
 * [Code @ GitHub](https://github.com/anroots/tiny-doorbell-remote)
 * [Samy Kamkar's original doorbell project](http://samy.pl/dingdong)
 
-_Update: two years after this, [I built a IoT smart doorbell](https://sqroot.eu/2017/snarky-doorbell)._
+_Update: two years after this, [I built a IoT smart doorbell](/2017/snarky-doorbell)._

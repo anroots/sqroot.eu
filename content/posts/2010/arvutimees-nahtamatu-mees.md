@@ -5,7 +5,7 @@ category: Opinions
 ---
 Mõni aeg tagasi lugesin Paul Graham'i esseed "<a href="http://www.paulgraham.com/nerds.html">Why Nerds are Unpopular</a>" (soovitas lektor <a href="http://www.lambda.ee/index.php/Itv0010#V.C3.A4ga_kasulikud_lugemismaterjalid:_loe_neid.21">Tanel Tammet</a>). Tekst on haarav ja pikk ning vaatleb probleemi - IT-mees on reeglina (koolis) ebapopulaarne - erinevate vaatenurkade alt. Üheks väiteks on, et...
 
->... The answer, I think, is that they [nerds] don't really want to be popular. (P. Graham)
+>... The answer, I think, is that they \[nerds\] don't really want to be popular. (P. Graham)
 
 Täna oli IT-Kolledži Rebastepidu. Minu jaoks läks kõik juba gümnaasiumi ja keskkooliajast tuttavat rada pidi: toimus paar planeeritud üritust ning siis jäeti peolised saali iseenda hooleks. Moodustusid grupid ning igaüks pidutses oma äranägemise ja alkoholitarbimise järgi. Mis muidugi tähendas, et mina, tugevalt ebakindel ja vähese sotsiaalse aktiivsusega inimene, jäin nurka seisma. Sõna otseses mõttes, neli tundi järjest. Olin liiga arg, et ise tutvusi sobitada, ei tarbi alkoholi, et selle mõjul peost osa võtta ja ei olnud ka vanu tuttavaid, kelle seltsis lihtsalt aega surnuks viia ja teeselda. Tegelikult üritasin leida vaikset, eelistatavalt hämarat nurka, kus bussi saabumist oodata. Arutasin mõttes viise, kuidas järgmise praktikumi Java ülessannet lahendada.
 

@@ -253,7 +253,7 @@ Skills obtained or perfected with this project: (Arduino) / C programming, PCB d
 
 <h1>Conclusion</h1>
 
-Overall, I am very satisfied with the result. I stared the project during the winter of 2014 while still in the army (I had my minimal prototyping electronics kit and a laptop with me, I used to work on the programming during our scarce spare time in the common area) and finished in June. The day when the last bug (malfunctioning [enter] button) was fixed and I finally mailed the finished project to Trent felt so fulfilling - I had accomplished something that took me a lot of time and effort to create.
+Overall, I am very satisfied with the result. I stared the project during the winter of 2014 while still in the army (I had my minimal prototyping electronics kit and a laptop with me, I used to work on the programming during our scarce spare time in the common area) and finished in June. The day when the last bug (malfunctioning \[enter\] button) was fixed and I finally mailed the finished project to Trent felt so fulfilling - I had accomplished something that took me a lot of time and effort to create.
 
 I'm satisfied with the amount of knowledge I got from this project. The code and schematics are open source, hopefully it's of help or inspiration to someone somewhere.
 

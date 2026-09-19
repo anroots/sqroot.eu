@@ -55,13 +55,13 @@ I chose resistors and a capacitor to achieve `12min` / `3sec` timings. The soldi
 
 |Amount|Part Type|Properties|
 |1|Battery Holders|package battcom_20mm_pth; variant 20pth|
-|1|Electrolytic Capacitor|package 100 mil [THT, electrolytic]; capacitance 470µF; voltage 6.3V|
-|1|Ceramic Capacitor|package 100 mil [THT, multilayer]; capacitance 10nF; voltage 6.3V|
-|1|Schottky Diode|type Schottky; package 300 mil [THT]; part # 1N5819|
-|1|PNP-Transistor|type PNP (ECB); package TO92 [THT]|
+|1|Electrolytic Capacitor|package 100 mil \[THT, electrolytic\]; capacitance 470µF; voltage 6.3V|
+|1|Ceramic Capacitor|package 100 mil \[THT, multilayer\]; capacitance 10nF; voltage 6.3V|
+|1|Schottky Diode|type Schottky; package 300 mil \[THT\]; part # 1N5819|
+|1|PNP-Transistor|type PNP (ECB); package TO92 \[THT\]|
 |1|2.2MΩ Resistor|package THT; pin spacing 400 mil; tolerance ±5%; resistance 2.2MΩ; bands 4|
 |1|10kΩ Resistor|package THT; pin spacing 400 mil; tolerance ±5%; resistance 10kΩ; bands 4|
-|1|[555 Timer](http://www.mouser.com/ds/2/389/CD00000893-249923.pdf)|package DIP8 [THT]|
+|1|[555 Timer](http://www.mouser.com/ds/2/389/CD00000893-249923.pdf)|package DIP8 \[THT\]|
 |1|[Vibration Motor- ROB-08449](https://www.sparkfun.com/datasheets/Robotics/310-101_datasheet.pdf)|package vibe-motor-10mm; variant 10mm|
 
 ## Links

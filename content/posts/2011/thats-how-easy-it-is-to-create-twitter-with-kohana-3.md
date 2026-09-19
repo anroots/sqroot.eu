@@ -39,11 +39,11 @@ We&#039;ll use Twitter&#039;s own <a href="http://twitter.github.com/bootstrap/"
 
 # Setting it all up
 
-[To be written, as soon as I have the time]
+\[To be written, as soon as I have the time\]
 
 # Coding
 
-[To be written, as soon as I have the time]
+\[To be written, as soon as I have the time\]
 
 # Conclusion
 

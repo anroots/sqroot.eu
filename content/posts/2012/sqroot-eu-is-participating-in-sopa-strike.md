@@ -20,6 +20,7 @@ Read more:
 <li> <a href="http://sopastrike.com/">http://sopastrike.com/</a></li>
 <li><a href="http://wikimediafoundation.org/wiki/English_Wikipedia_anti-SOPA_blackout">http://wikimediafoundation.org/wiki/English_Wikipedia_anti-SOPA_blackout</a></li>
 </ul>
+
 ## Related articles
 <ul>
 <li><a href="http://secondmode.wordpress.com/2012/01/16/sopa-pipa-blackout/">SOPA / PIPA Blackout</a> (secondmode.wordpress.com)</li>

@@ -26,7 +26,7 @@ The results of such paractices is that anyone with basic programming knowledge w
 
 Below is a proof-of-concept pseudo-algorithm for getting a list of sold tickets:
 
-::gist{id="2794030" file="stealticket.py"}
+::gist{id="2794030"}
 ::
 
 <strong>Update</strong>: They have now fixed the problem (in response to me pointing it out) by replacing the two numbers with a hash string. I'm still having my doubts about the validity of the solution, but since I didn't take the time to discover what the second parameter meant, I'm unable to try to reproduce / crack the hashing algorithm.

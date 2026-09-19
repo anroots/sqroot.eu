@@ -36,7 +36,7 @@ Here's my list of extracted "cool phrases" from Pipedrive's "Looking for a Back-
 
 That's ~40% of the original text. I'm not saying that's good. I'm not saying that's bad... but looking at (and sometimes writing) those texts gets not fun after some years.
 
-The question in my mind is: aren't you setting yourself (both as the company [for living up to those promises] and as the candidate [gosh, I'm a shy introvert, should I even apply?]) up for really high expectations? What if I've already worked in a company that promised all of that and made me quit after a year to escape the legacy code, corporate ass-kicking and more?
+The question in my mind is: aren't you setting yourself (both as the company \[for living up to those promises\] and as the candidate \[gosh, I'm a shy introvert, should I even apply?\]) up for really high expectations? What if I've already worked in a company that promised all of that and made me quit after a year to escape the legacy code, corporate ass-kicking and more?
 
 Perhaps recruiting should be like dating: you're more attracted not towards the one who starts jabbering away, but to the one who says a few simple lines, then listens, then responds with an honest reply.
 

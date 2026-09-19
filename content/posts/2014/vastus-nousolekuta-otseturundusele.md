@@ -31,9 +31,9 @@ Tooksin siinkohal veel välja punkti Teie "Kasutustingimused" lehelt:
 
 </blockquote>
 
-Kusjuures "<em>kasutaja</em>" on samas dokumendis defineeritud kui "<em>isik, kes kasutab veebilehel teenust</em>" ning "<em>veebileht</em>" kui "<em>[kustutatud].ee esimese astme domeeni (top level domain, TLD) piires asuv veebileht (infovahendaja, infokandja)</em>".
+Kusjuures "<em>kasutaja</em>" on samas dokumendis defineeritud kui "<em>isik, kes kasutab veebilehel teenust</em>" ning "<em>veebileht</em>" kui "<em>\[kustutatud\].ee esimese astme domeeni (top level domain, TLD) piires asuv veebileht (infovahendaja, infokandja)</em>".
 
-Minu e-mailile saabunud pakkumise jaluses on kirjas: "<em>Leidsime teie tutvumiskuulutuse avaliku emailiga veebileheküljelt [konkurent].ee. Vabandame kui te ei soovinud seda kirja saada!</em>". Sellest tuvastan, et leidsite minu e-maili aadressi konkureerivalt veebilehelt ning sisestasite selle oma infosüsteemi, mis siis mulle automaatselt genereeritud kirja saatis.
+Minu e-mailile saabunud pakkumise jaluses on kirjas: "<em>Leidsime teie tutvumiskuulutuse avaliku emailiga veebileheküljelt \[konkurent\].ee. Vabandame kui te ei soovinud seda kirja saada!</em>". Sellest tuvastan, et leidsite minu e-maili aadressi konkureerivalt veebilehelt ning sisestasite selle oma infosüsteemi, mis siis mulle automaatselt genereeritud kirja saatis.
 
 Veelgi enam, Teie "Kasutustingimused" punktidest:
 
@@ -72,7 +72,7 @@ Ando Roots
 
 <hr />
 
-<em>Märkused [kustutatud] ja [konkurent] esindavad kohti, kus info kõnealuse kirja kohta on saatja identiteedi kaitsmiseks eemaldatud.</em>
+<em>Märkused \[kustutatud\] ja \[konkurent\] esindavad kohti, kus info kõnealuse kirja kohta on saatja identiteedi kaitsmiseks eemaldatud.</em>
 
 Mida sellest kõigest järeldada? Spämmi jõuab postkasti tänapäeval päris suures koguses (hinnatakse, et vahemikus 70...90% kõikides Internetis saadetud kirjadest on rämpspost). Oluline erinevus on aga pimedal, "puusalt tulistatud" rämpspostil (mingil robotil õnnestus kuskilt hankida sinu e-mail) ning rohkem sihitud, individuaalsel rämpspostil (keegi kusagil on reaalselt vaeva näinud, et sinu sihtgruppi kuuluvate isikute e-maile hankida).
 

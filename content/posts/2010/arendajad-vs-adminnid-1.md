@@ -8,7 +8,7 @@ tags:
 - fiktsioon
 - jutt
 ---
-[ N.B! Fiktsioon! ]
+\[ N.B! Fiktsioon! \]
 
 Ühel ilusal päeval läksid Arendaja ja Adminn omavahel kaklema. Seisid mehed ruumi 314 ukse ees ning vaidlesid igivanal teemal: Bill või Linus? Loengu algus lähenes ning sõnelus muutus järjest valjemaks. Meeste ümber tekkis juba väike ringki; oli oodata verd. Just siis ilmus kohale IT SPEA professor ning pakkus lahenduse: Arendajad ja Adminnid mõõtku oma vägevust võistlusega ning võitja  saaks tolleks korraks sõnaõiguse.
 

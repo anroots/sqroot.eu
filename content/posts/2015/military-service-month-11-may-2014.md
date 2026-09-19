@@ -55,7 +55,7 @@ The position is in an open field which belongs to a local farmer. He's a friendl
 
 Hello, routine. My time passes in a predictable pattern of rotations: patrolling the perimeter, monitoring the communications equipment, sleeping.
 
-Many find this - no action, just constant vigilance and monotonous waiting - boring, but I enjoy it very much. Sleeping in our small, but comfortable tent (with heating, mind you) is relaxing. I configured the IT equipment to be as automated as possible, a red box or a changed status line tells me whether I have to do anything, so most of the time on watch duty passes with my laptop (I'm doing various developer things, including programming - and I'm not the only one writing code to escape boredom [lots of software developers in our battalion]).
+Many find this - no action, just constant vigilance and monotonous waiting - boring, but I enjoy it very much. Sleeping in our small, but comfortable tent (with heating, mind you) is relaxing. I configured the IT equipment to be as automated as possible, a red box or a changed status line tells me whether I have to do anything, so most of the time on watch duty passes with my laptop (I'm doing various developer things, including programming - and I'm not the only one writing code to escape boredom \[lots of software developers in our battalion\]).
 
 Patrol duty is in ways the worst. On daytime, it's more bearable thanks to the sun, but the night is both chilly, scary and boring. I had strategically parked the truck so that the most dangerous attack vectors would be visible from the cabin and yes, I sometimes "cheated" a bit by doing my rounds from the drivers spot. Still, I'm more vigilant than some of the other teams whose idea of a patrol means sleeping.
 
@@ -204,7 +204,7 @@ We brush the roads one final time, then line up and march to the diner for break
 
 
 > Srs Pu: "Rühm, VALVEL! Kasarmu ringselt söökla ette TAKTSAMMU MARSS!"
-> Keegi rivist: "Nendes riietes [tsiviilides] ei tehta taktsammu!"
+> Keegi rivist: "Nendes riietes \[tsiviilides\] ei tehta taktsammu!"
 > Srs Ms, naerdes: "Ei virise, läheb taktsammu!"
 
 Every man gets a paper where they have to collect signatures from different officers and officials, signifying that all is well between us (no missing equipment, no books to return to the library). We give a parting present to our CO-s: a potted plant with the name tags of every man glued around the pot. They joke that there will be a watering duty rotation for the plant.

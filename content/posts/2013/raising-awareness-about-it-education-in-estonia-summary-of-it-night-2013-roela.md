@@ -108,20 +108,20 @@ The workshop went quite well. We had decided to teach basic programming with <a 
 ![Animating](/content/2013/03/roela/animating.jpg)
 ![Instructing](/content/2013/03/roela/workshop2.jpg)
 
-* [1] [M.V] Explaining about arrays
-* [2] A Scratch project, animated cat
-* [3] Writing the program for said animated cat
-* [4] [M.V.] Giving instructions on how to write a Scratch Program
+* \[1\] \[M.V\] Explaining about arrays
+* \[2\] A Scratch project, animated cat
+* \[3\] Writing the program for said animated cat
+* \[4\] \[M.V.\] Giving instructions on how to write a Scratch Program
 
 The SMS competition drew people along quite nicely, although I'd have prefered to see more team spirit and focus. The system didn't crash, which is a first, but there were still misunderstandings in the usability department.
 
-I'd taken my box of electronics parts (breadboard, resistors / LED) and instructions with me with the hopes of introducing basic electronics to anyone interested, however, I decided not to take it out (in the end, I did, but as predicted, no-one showed any interest [to be fair, I didn't push the subject, either]). That was a big let-down. I had decided to leave my PI at home, maybe that would have <a href="https://www.facebook.com/photo.php?fbid=10151504162396696&amp;set=a.10150153067771696.295579.311786176695&amp;type=1&amp;theater">attracted some interest</a> in embedded programming. I still hope to teach basic electronics, tho - the best way to learn something new is to teach it.
+I'd taken my box of electronics parts (breadboard, resistors / LED) and instructions with me with the hopes of introducing basic electronics to anyone interested, however, I decided not to take it out (in the end, I did, but as predicted, no-one showed any interest \[to be fair, I didn't push the subject, either\]). That was a big let-down. I had decided to leave my PI at home, maybe that would have <a href="https://www.facebook.com/photo.php?fbid=10151504162396696&amp;set=a.10150153067771696.295579.311786176695&amp;type=1&amp;theater">attracted some interest</a> in embedded programming. I still hope to teach basic electronics, tho - the best way to learn something new is to teach it.
 
 ![Resistors](/content/2013/03/roela/resistors.jpg)
 ![Example circuit](/content/2013/03/roela/breadboard-led.jpg)
 
-* [1] Resistors and LEDS - everything a growing child needs to make his first circuit
-* [2] Example circuit
+* \[1\] Resistors and LEDS - everything a growing child needs to make his first circuit
+* \[2\] Example circuit
 
 <h1>Catching Some WiFi In The Night</h1>
 
@@ -164,7 +164,7 @@ The experience was quite what I expected from last year. A chance to show youngs
 <ul>
 <li><a href="http://www.itl.ee/?op=body&amp;id=14&amp;art=1147">IT ÖÖ sütitas noortekeskustes taas mõtteid!</a></li>
 <li><a href="http://startit.ee/it-oo-2013">IT ÖÖ 2013, Start IT</a></li>
-<li><a href="http://www.ank.ee/?p=p_30&amp;sName=it-%D6%D6">IT ÖÖ 2013, ANK</a></li>
+<li><a href="http://www.ank.ee/?p=p_30&amp;sName=it-%C3%96%C3%96">IT ÖÖ 2013, ANK</a></li>
 </ul>
 
 <h2>Things To Check Out</h2>

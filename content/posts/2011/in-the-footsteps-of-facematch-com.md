@@ -21,7 +21,7 @@ I was impressed by the scene in [The Social Network](http://www.imdb.com/title/t
 
 An hour later I had this script and a folder with about 500 thumbnails.
 
-::gist{id="2656998" file="itk-downloader.sh"}
+::gist{id="2656998"}
 ::
 
 I didn't bother with any fancy config options or downloading every picture, this was ment as a proof of consept. Now all I need to do is write some PHP to make my very own facematch.com! (Naah, I've got better things to do.)

@@ -13,7 +13,7 @@ from 16 - 19 October and I got to be part of it. Some thoughts.
 
 ## MTA, I say again, MTA
 
-Opening keynotes on both days focused very much on (over) selling Docker Enterprise Edition to the audience, mostly through its "MTA" - Modernizing Traditional [Legacy] Apps - program. Docker, Inc. really wants people to buy its products and (partner) consulting services and to get them on the Docker bandwagon.
+Opening keynotes on both days focused very much on (over) selling Docker Enterprise Edition to the audience, mostly through its "MTA" - Modernizing Traditional \[Legacy\] Apps - program. Docker, Inc. really wants people to buy its products and (partner) consulting services and to get them on the Docker bandwagon.
 
 You take a traditional, legacy app, that ticks away in some VM and you Dockerize it. Then, run it in a Swarm or Kubernetes cluster and benefit from higher resource utilization and security. You won't have to refactor the application, Dockerization is seamless.
 

@@ -9,5 +9,5 @@ tags:
 - url
 - scrape
 ---
-::gist{id="2656905" file="fetch_info.py"}
+::gist{id="2656905"}
 ::

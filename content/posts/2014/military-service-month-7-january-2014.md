@@ -177,7 +177,7 @@ I met a female officer from another unit, I think they were training the winter 
 
 I walked away. The next time, I'll start with something along the lines of "Show me your ID so I could know you're not working for the enemy" before I say anything.
 
-Broadly speaking, there are three kinds of days for the drivers: days where we do nothing (the holidays, weekends, the whole of Drivers Specialty Course) [rare], days when training takes place (lectures or forest camps) [most of the time] and days where we follow our Master, SFC Ps and do his bidding (wash, refuel, repair, park, drive, check, double-check, triple-check, document, report, replace) [often]. A full day of working in the car park is not anyone’s (well, not mine) idea of having fun.
+Broadly speaking, there are three kinds of days for the drivers: days where we do nothing (the holidays, weekends, the whole of Drivers Specialty Course) \[rare\], days when training takes place (lectures or forest camps) \[most of the time\] and days where we follow our Master, SFC Ps and do his bidding (wash, refuel, repair, park, drive, check, double-check, triple-check, document, report, replace) \[often\]. A full day of working in the car park is not anyone’s (well, not mine) idea of having fun.
 
 ![Minions](/content/2014/04/despicable_car.jpg)
 
@@ -188,11 +188,11 @@ I get a weekend pass soon after. Forced to stay at <a href="http://www.themonksb
 ![Boardgames](/content/2014/04/boardgames.jpg)
 ![Quote](/content/2014/04/hubbard.png)
 
-Those who've served in the armed forces have a unique... experience... to bind them. I was at a PC store, asking for something and acknowledged the shopkeepers reply with an automatic army-vocublary "Sain" [<em>understood</em>]. The shopkeeper replied with "Kõik" [<em>Over and Out</em>] and we smirked over the private joke.
+Those who've served in the armed forces have a unique... experience... to bind them. I was at a PC store, asking for something and acknowledged the shopkeepers reply with an automatic army-vocublary "Sain" \[<em>understood</em>\]. The shopkeeper replied with "Kõik" \[<em>Over and Out</em>\] and we smirked over the private joke.
 
 I got back to the battalion two minutes before my weekend pass expired. That was a first. The reason for this irrational behaviour was of course, the only justifiable excuse: a woman. I spent every possible minute of Sunday evening with her and ran (literally) through the city to change and report back. There was a line in front of the check-in station and officially, I was one minute two late. Fortunately, the duty officer was a reasonable man. Squad leaders were ordered to check that none of their men returned drunk.
 
-Someone [pvt Tt] had stolen Sgt Õu's underwear from the laundry room. We're already tucked in and the room is dark when he comes in to enquire about it. The room bursts into laughter. Justified karma. I only hope pvt Tt put them on before realizing his mistake.
+Someone \[pvt Tt\] had stolen Sgt Õu's underwear from the laundry room. We're already tucked in and the room is dark when he comes in to enquire about it. The room bursts into laughter. Justified karma. I only hope pvt Tt put them on before realizing his mistake.
 
 <h1>Week #31 (27 - 31 of January)</h1>
 

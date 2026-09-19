@@ -36,7 +36,7 @@ Here are the answers to the five questions. I solemnly swear that I am up to onl
 1. No, but I will post the schematics and code that I will use along with this item to The Internet. Technically, this information is accessible from ALL countries (1). What is more, the schematic for the item itself is [already published by the manufacturer](https://www.pjrc.com/teensy/schematic.html)
 2. No, although we Estonians have compulsory military service and one could argue that using the Teensy to educate myself will improve my performance in the military
 3. Yes, although it is not within my power to guarantee who will ultimately recycle The Item or its Components
-4. The item will be used to build a self-made, touch-sensitive computer keyboard. Probably within a wooden frame, but I am unwilling to testify on this point. This claim can be verified by following [my blog](https://sqroot.eu), where I will post the build log for this project as soon as I complete it. To the best of my knowledge, I will violate no US patents by building the non-explosive device myself, instead of buying one from Apple.
+4. The item will be used to build a self-made, touch-sensitive computer keyboard. Probably within a wooden frame, but I am unwilling to testify on this point. This claim can be verified by following [my blog](/), where I will post the build log for this project as soon as I complete it. To the best of my knowledge, I will violate no US patents by building the non-explosive device myself, instead of buying one from Apple.
 5. Milky Way, Earth, Europe, European Union, The Republic of Estonia, Harjumaa, Tallinn. I have already submitted my shipping address; although this is subject to change in a year or so.
 
 

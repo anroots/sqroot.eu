@@ -12,5 +12,5 @@ tags:
 ---
 A script to display a random goal from 43things.com in Ubuntu's Notify-OSD. Set it up to start on login and you'll get a new goal every day.
 
-::gist{id="2656909" file="43_tips.py"}
+::gist{id="2656909"}
 ::

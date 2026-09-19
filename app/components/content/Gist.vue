@@ -3,9 +3,9 @@
  * Renders a GitHub gist that was vendored into content/gists/<id>.md by scripts/fetch-gists.mjs.
  * Fully static: highlighted at build time, no gist.github.com JavaScript is loaded.
  *
- * Usage in markdown:  ::gist{id="4647548"}   (a legacy `file` attribute is accepted and ignored)
+ * Usage in markdown:  ::gist{id="4647548"}
  */
-const props = defineProps<{ id: string; file?: string }>()
+const props = defineProps<{ id: string }>()
 
 const { data: gist } = await useAsyncData(`gist-${props.id}`, () =>
   queryCollection('gists').path(`/gists/${props.id}`).first(),

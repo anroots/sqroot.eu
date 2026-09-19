@@ -14,5 +14,5 @@ tags:
 
 Have a conversation with a PandaBot AI!
 
-::gist{id="2656913" file="chatty.py"}
+::gist{id="2656913"}
 ::

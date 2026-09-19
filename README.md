@@ -38,9 +38,7 @@ Special embeds are Vue components, written in [MDC](https://content.nuxt.com/doc
 | GitHub gist | `::gist{id="4647548"}` `::` | Gist source is vendored into `content/gists/<id>.md` – run `node scripts/fetch-gists.mjs` after adding a new one |
 | asciinema recording | `::asciinema{id="18935"}` `::` | Loads the asciinema player on the client |
 
-Reading time and word count are computed at build time (`modules/content-hooks.ts`). The same module
-applies a few Kramdown→CommonMark compatibility shims to old posts at parse time (`scripts/lib/markdown-compat.mjs`),
-so the markdown files never had to be edited.
+Reading time and word count are computed at build time (`modules/content-hooks.ts`).
 
 ## Building
 

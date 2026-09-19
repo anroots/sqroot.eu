@@ -57,4 +57,4 @@ Below is a list of items included in the backpack and a brief explanation for th
 ![Items included in the bag](/content/2016/05/mil-bag-1.jpg)
 ![Items included in the bag](/content/2016/05/mil-bag-2.jpg)
 
-Also see: [Shopping List to New Recruits](https://sqroot.eu/2015/military-service-a-year-later).
+Also see: [Shopping List to New Recruits](/2015/military-service-a-year-later).

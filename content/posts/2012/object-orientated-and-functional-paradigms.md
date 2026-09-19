@@ -10,11 +10,12 @@ tags:
 - paradigm
 - essay
 ---
-I've been writing code for well over half a decade now... and I feel like the journey is just beginning. This article is a collection of subjective musings about object-orientated and functional paradigms, their advantages, disadvantages and use in real world software engineering, from the viewpoint of a [arguably young] software developer.
+I've been writing code for well over half a decade now... and I feel like the journey is just beginning. This article is a collection of subjective musings about object-orientated and functional paradigms, their advantages, disadvantages and use in real world software engineering, from the viewpoint of a \[arguably young\] software developer.
 
-[It's also a hometask for <a href="https://itcollege.ois.ee/subject/view?subject_id=127">I230</a>]
+\[It's also a hometask for <a href="https://itcollege.ois.ee/subject/view?subject_id=127">I230</a>\]
 
 <h2>Definitions</h2>
+
 Almost any software project can be classified as functional or object-orientated. I say almost, because sometimes, the lines tend to get a little bit blurry, with both methodologies used in conjunction.
 
 > In computer science, functional programming is a programming paradigm that treats computation as the evaluation of mathematical functions and avoids state and mutable data. - <a href="http://en.wikipedia.org/wiki/Functional_programming">Wikipedia</a>
@@ -32,7 +33,7 @@ Today's industrial worlds seems to move more and more towards to object-orientat
 
 <h2>Abstraction</h2>
 
-I followed the traditional learning curve of software development by first learning about functions and getting more abstract from there. That's the beauty of object-orientated design: it's abstract. "Abstract", you might say, "isn't it the same as foggy and confusing?" No, not quite. The Holy Grail of software engineering is modularity and reusability. <a href="http://www.catb.org/~esr/faqs/hacker-howto.html#believe2">No problem should ever have to be solved twice</a> (Eric Raymond) and the abstraction offered by well-designed objects allows for reusability in a wide variety of different projects. By using a high-level approach we [the developers] are able to design for general situations and implement the specifics when the situation arises. Techniques such as abstract and <a href="http://jadendreamer.wordpress.com/2011/05/13/php-tutorial-learning-oop-class-basics-extending-classes/">extended classes</a> offer ways to hide implementation-specific logic from components that do not need them.
+I followed the traditional learning curve of software development by first learning about functions and getting more abstract from there. That's the beauty of object-orientated design: it's abstract. "Abstract", you might say, "isn't it the same as foggy and confusing?" No, not quite. The Holy Grail of software engineering is modularity and reusability. <a href="http://www.catb.org/~esr/faqs/hacker-howto.html#believe2">No problem should ever have to be solved twice</a> (Eric Raymond) and the abstraction offered by well-designed objects allows for reusability in a wide variety of different projects. By using a high-level approach we \[the developers\] are able to design for general situations and implement the specifics when the situation arises. Techniques such as abstract and <a href="http://jadendreamer.wordpress.com/2011/05/13/php-tutorial-learning-oop-class-basics-extending-classes/">extended classes</a> offer ways to hide implementation-specific logic from components that do not need them.
 
 Whenever I speak of object-orientated design I find myself drawn to a kind of religious war, similar to the ever-spanning <a href="http://www.geek.com/articles/apple/apple-fanaticism-similar-to-religious-devotion-according-to-scientists-20110519/">Mac - vs PC</a>. That might have been an overstatement, but I can not deny the fact that I almost always argue for the sake of OO practices. Maybe it silly. Maybe it's not. The reality is that there is no right or wrong approach, the determining factor is the project. It's silly to start designing objects for a less-than-fifty code line snippet and in contrast, challenging to build Twitter with linear progression, global state and function calls. What I'm trying to say is: functional programming is mainly used for small-scale projects whereas objects come into play with larger, more complex infosystems.
 

@@ -11,7 +11,7 @@ tags:
 ---
 Mõtlesin välja mooduse, kuidas oma koduarvutist läbi Skype telefonile SMS teateid saata. Sain neti abiga valmis sellise python skripti:
 
-::gist{id="2656890" file="skype_sms.py"}
+::gist{id="2656890"}
 ::
 
 Sõnumi saatmiseks käivitan lihtsalt käsu:

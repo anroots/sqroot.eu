@@ -43,7 +43,7 @@ Selliseid teenuseid, kus kasutaja ei saa oma andmeid mingilgi määral peita, le
 
 Niisiis - lisaks maailmale tuleb muretseda ka sõprade käitumise pärast. Privaatsuse kaitsmine on saanud kollektiivseks harjutuseks. On olemas ütlus "hinda inimest tema sõprade järgi".
 
-Olukord kisub veelgi keerulisemaks niinimetatud sõprade võistluse pärast. Keskmiselt on inimesel umbes 150 tuttavat, kellest paarikümment võib kutsuda sõpradeks. Vaadates aga sõprade arvu erinevates sotsiaalvõrgustikes (rate.ee, facebook), võib näha, et see küünib sadadeni. Paar aastat tagasi oli populaarne kirjade saatmine täiesti võõrastele inimestele, stiilis "Lisa mind [sõbraks], lisan sind.". Sõprade arv oleks nagu mingi populaarsusindikaator. Mida rohkem sõpru, seda populaarsem inimene. Oletades nüüd, et Bobi pilt on nähtav kõigile ta sõprade sõpradele võiks öelda, et seda näevad paartuhat inimest, millest võib omakorda järeldada, et pilt on samahästi kui avalik. Kust tõmmata piir?
+Olukord kisub veelgi keerulisemaks niinimetatud sõprade võistluse pärast. Keskmiselt on inimesel umbes 150 tuttavat, kellest paarikümment võib kutsuda sõpradeks. Vaadates aga sõprade arvu erinevates sotsiaalvõrgustikes (rate.ee, facebook), võib näha, et see küünib sadadeni. Paar aastat tagasi oli populaarne kirjade saatmine täiesti võõrastele inimestele, stiilis "Lisa mind \[sõbraks\], lisan sind.". Sõprade arv oleks nagu mingi populaarsusindikaator. Mida rohkem sõpru, seda populaarsem inimene. Oletades nüüd, et Bobi pilt on nähtav kõigile ta sõprade sõpradele võiks öelda, et seda näevad paartuhat inimest, millest võib omakorda järeldada, et pilt on samahästi kui avalik. Kust tõmmata piir?
 
 # "Tavaline" kasutaja
 

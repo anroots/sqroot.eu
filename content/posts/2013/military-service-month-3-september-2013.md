@@ -85,7 +85,7 @@ We're allowed an extra hour of sleep (one of the things that truly sucks is the 
 
 Some days are good days... as good as one can have during SBC. Held an improv lesson with the guys in a secluded lawn space. The duty officer didn't like the idea, but he couldn't exactly forbid us, either. Dear officers, cultural activities are worthwhile in the army. For some, this might be the only thing for venting oneself of all the crap.
 
-The guys from upstairs managed to piss off the duty officer (closets not in order). His yelling was loud enough to reach all the way to the square where we formed up to go on a field trip. Everyone was anxious and in a hurry to get going, but we weren't fast enough. We'd taken only a few steps when he came flying out of the barracks, ordered a few guys (from upstairs) to ground and made it clear that the closets must be kept in order at all times. Lucky for us [me], the first floor had been satisfactory. We're out of the battalion by one o'clock.
+The guys from upstairs managed to piss off the duty officer (closets not in order). His yelling was loud enough to reach all the way to the square where we formed up to go on a field trip. Everyone was anxious and in a hurry to get going, but we weren't fast enough. We'd taken only a few steps when he came flying out of the barracks, ordered a few guys (from upstairs) to ground and made it clear that the closets must be kept in order at all times. Lucky for us \[me\], the first floor had been satisfactory. We're out of the battalion by one o'clock.
 
 This weeks field trip was to the fair of Estonia (100th birthday). Several theater-related attractions and an epic stage with a symphony orchestra and singers. Had a cup of <a href="http://coffeein.ee/menuu/chai">delicious coffee</a> in a park, a rare luxury. Found <a href="http://weirdthingsinbookshops.tumblr.com">a book</a> from a nearby bookstore and gave it as a gift to Her an hour later. We had such a lovely afternoon.
 
@@ -108,7 +108,7 @@ It's my turn to be responsible for the entire unit for two days. Woke several di
 
 ![SBK countdown](/content/2013/11/countdown.jpg)
 
-I got a list of names who were destined to become officers after SBC. Private Ms swore and was miserable when he heard the news (he managed to get out of it by being in the right place at the right time). All of the future drivers were rounded up and taken to a driving exercise field, drove some easy laps [first time behind a wheel in six months]. Some posts got murdered.
+I got a list of names who were destined to become officers after SBC. Private Ms swore and was miserable when he heard the news (he managed to get out of it by being in the right place at the right time). All of the future drivers were rounded up and taken to a driving exercise field, drove some easy laps \[first time behind a wheel in six months\]. Some posts got murdered.
 
 After much debate, I decided NOT to take my expensive, fragile smartphone with me to the final hike. I'll get soaked in sweat, water, mud and who knows what, there'll be some hard hits and moisture. Instead, I borrowed a MP3 with good music from a friend. This will be incredibly useful by distracting my brain from how shitty I feel. Feeling exceptionally depressed, but resolute, I can't get out of it so let's just do this...
 
@@ -165,7 +165,7 @@ The next checkpoint - crossing a river on a two-strand rope bridge. There were t
 
 Some kilometers onwards and there's a memory exercise to be solved. We did four mistakes, which meant four "motivational packages" that had to be taken to the next checkpoint, each one weighing quite a lot. We had a stretcher with us and two people took turns to carry the load; it was a slow and exhausting duty.
 
-Since so many people had failed the exam on measuring distances by sight they let us redo it. The exam took place between two checkpoints and I passed this time. I'm looking through the binoculars at the target and calculating, 2nd Lt. Vi asks me technical questions... when suddenly: "So, did you have fun at the book shop on Friday?" [the day of the Estonia fair]. Estonia is a small world. Luckily, holding hands is not indecent for a soldier and I was allowed to be in the shop.
+Since so many people had failed the exam on measuring distances by sight they let us redo it. The exam took place between two checkpoints and I passed this time. I'm looking through the binoculars at the target and calculating, 2nd Lt. Vi asks me technical questions... when suddenly: "So, did you have fun at the book shop on Friday?" \[the day of the Estonia fair\]. Estonia is a small world. Luckily, holding hands is not indecent for a soldier and I was allowed to be in the shop.
 
 We finally reach the last checkpoint, exhausted. The guys had been sparing me as one of the two weaker members of the group; I didn't have to carry the stretcher. Still, there wasn't much fight left in me. The last task was easy enough - make it to the finish line as fast as possible. The team with the best time gets rewarded.
 
@@ -268,7 +268,7 @@ Theory lessons seem to be the only thing we do. Some are in the classroom, some 
 <li>We need to choose a new marching song, but all seem too lazy to learn it.</li>
 <li>Pvt Mk fixes the broken hot water dispenser with his pocket knife.</li>
 <li>I troll my bunkmate out of boredom. His name sign now reads Konstantin.<br />
-![AEK new room](/content/2013/11/aek_new_room.jpg)
+<img src="/content/2013/11/aek_new_room.jpg" alt="AEK new room">
 </li>
 <li>Pvt Mk climbs on top of the closets and makes loud noises at unsuspecting victims who enter the room.</li>
 <li>Went through medical and was declared healthy enough to drive a truck.</li>

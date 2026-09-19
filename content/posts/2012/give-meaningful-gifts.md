@@ -9,7 +9,7 @@ tags:
 - holidays
 - gifts
 ---
-Christmas and gift-giving. Nothing wrong with that... except when there is. I was wandering the stores the other day, looking for stuff to give to my close ones. I was wandering... and wondering: is this really what it is? A social responsibility to buy stuff just for buying stuff? The more [expensive], the better?
+Christmas and gift-giving. Nothing wrong with that... except when there is. I was wandering the stores the other day, looking for stuff to give to my close ones. I was wandering... and wondering: is this really what it is? A social responsibility to buy stuff just for buying stuff? The more \[expensive\], the better?
 
 I believe in sincerity and honesty. It's something that's been in my mind for a while: being honest even if the truth is hurtful. Those values should reflect on my actions, buying a cheap ornament for a gift is a big no-no... yet there are not few people who do just that.
 

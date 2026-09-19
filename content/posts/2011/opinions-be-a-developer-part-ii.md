@@ -125,7 +125,7 @@ And no, I wouldn't stamp a developer bad just because he's not fast enough. I've
 
 Now comes the part I dread to write, because your last point is the one I disagree with most strongly.
 
-Writing software IS (with double underlining) a creative process. [big fat period] It's the typical way of thinking for functional programmers who look at the world like this:
+Writing software IS (with double underlining) a creative process. \[big fat period\] It's the typical way of thinking for functional programmers who look at the world like this:
 
 > Okay, to solve this problem, I write function X and I can see that function X needs function Y and so I write function Y. Clearly, function Y must calculate the tax return so I have to look up the percentages and just code the function to return the value Z. I don't really fancy writing function Y because I don't like rinse-and-repeat, but I have to do this so I could do the same with function X.
 

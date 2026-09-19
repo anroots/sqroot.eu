@@ -14,5 +14,5 @@ It has some obvious shortcomings like lacking validity checks and inability to h
 
 The program is text based. It asks for a file, reads it, loops over individual words and outputs and writes the resulting translation.
 
-::gist{id="2657000" file="Stuffy.java"}
+::gist{id="2657000"}
 ::

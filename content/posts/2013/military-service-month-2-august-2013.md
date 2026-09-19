@@ -222,7 +222,7 @@ The summery landscape is nice to look at, even from the car crate. We get to str
 
 Sunday is an important day: we march through the city. No officers come with us, the units are under the command of the more competent privates. We march up to <a href="http://en.wikipedia.org/wiki/Toompea">Toompea</a> and down through the Old Town, the busiest tourist streets of Estonia
 
-The marching is accompanied by singing, we have three units and three songs, when one unit finishes, another begins. It really is something when a hundred soldiers sing <em>"Jää vabaks, Eesti meri!"</em> [stay free, Estonian seas] in the echo-ish space of a tunnel. Everyone stares, most cheer and laugh and point fingers. A civilian at us: "Why are you being so serious?"... but we are. Soldiering is a serious profession. The march ended on the site of the only "official" <a href="http://www.postimees.ee/78358/raua-tanava-lahingus-kaitsti-eesti-riigi-au">battle against the 1940-s coup</a>.
+The marching is accompanied by singing, we have three units and three songs, when one unit finishes, another begins. It really is something when a hundred soldiers sing <em>"Jää vabaks, Eesti meri!"</em> \[stay free, Estonian seas\] in the echo-ish space of a tunnel. Everyone stares, most cheer and laugh and point fingers. A civilian at us: "Why are you being so serious?"... but we are. Soldiering is a serious profession. The march ended on the site of the only "official" <a href="http://www.postimees.ee/78358/raua-tanava-lahingus-kaitsti-eesti-riigi-au">battle against the 1940-s coup</a>.
 
 <h1>Week #9 (26 of August - 01 of September)</h1>
 <h2>MP-s</h2>

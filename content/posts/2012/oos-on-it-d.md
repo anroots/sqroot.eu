@@ -30,7 +30,7 @@ IT öö on  noortele mõeldud suursündmus, mis toimub korraga ja ühtemoodi ü
 
 <h1>Varem...</h1>
 
-Idee sel üritusel osaleda tekkis juba eelmisel aastal, mil kuulasin <a href="http://noorteraadio.ee/">Noorteraadiost</a> tollaseid öiseid sündmusi. Siis oli osalejaks - mentoriks - minna juba hilja, kuid sel aastal jõuti minuni piisavalt vara. Veel ürituse alguspäevalgi oli (viimase minuni jõudnud info kohaselt) defitsiit tudengitest, kes keskustesse tehniliseks toeks ja mentoriks läheks. Samas oli osalenud keskusi ka rohkem, sel aastal siis 18 (eelmine number <a href="http://www.ank.ee/?p=p_811&amp;sName=it-%D6%D6--%F5nnestunud-ja-innovaatiline-ettev%F5tmine">oli 12</a>).
+Idee sel üritusel osaleda tekkis juba eelmisel aastal, mil kuulasin <a href="http://noorteraadio.ee/">Noorteraadiost</a> tollaseid öiseid sündmusi. Siis oli osalejaks - mentoriks - minna juba hilja, kuid sel aastal jõuti minuni piisavalt vara. Veel ürituse alguspäevalgi oli (viimase minuni jõudnud info kohaselt) defitsiit tudengitest, kes keskustesse tehniliseks toeks ja mentoriks läheks. Samas oli osalenud keskusi ka rohkem, sel aastal siis 18 (eelmine number <a href="http://www.ank.ee/?p=p_811&amp;sName=it-%C3%96%C3%96--%C3%B5nnestunud-ja-innovaatiline-ettev%C3%B5tmine">oli 12</a>).
 Paar nädalat enne ürituse algust toimus Tallinnas seminar, kus noorsootöötajatele üritust tutvustati ning tudengibörsi peeti. Mina sattusin kolleegiga (Kullo-Kalev Aru) Kambja noortekeskusesse, kuhu värbas meid Triinu, keskuse juhataja. Hiljem muidugi selgus, et <a href="https://www.facebook.com/events/347441635299690/">Improgrupp Jaa! etendus</a> toimub täpselt samal ajal....oeh. Sellest oli kahju ilma jääda.
 
 # Me ei ole Tallinnas
@@ -67,7 +67,7 @@ Võitjate ideid esitati jällegi live-streamis (keskustel oli kindel järjekord)
 
 Kuskil kell kuus tuli mul idee energilisemate noortega midagi spontaanset teha. Asi lõppes pooletunnise impro-töötoaga, kus osales ~6 aktiivsemat. Kuna noored olid hakkajad ja julged ning tulid kõigega hästi kaasa, otsustasin nende ajud natuke julmalt õhku lasta Sina mänguga. See on selline keskendumis- ja tähelepanumäng, kus osalejatel tuleb meelda jätta ning korrata erinevaid mustreid. Hämmastaval kombel jõudsime kolmanda tasemeni enne, kui üle kaheteist tunni ärkvel olnud inimeste ajud plahvatasid. Mõnus lõpp sissejuhatusele improst.
 
-Köögitoimkond tegi pitsat, võitja-ideid viimistleti. Kell oli üheksa. Kuna noored pidid oma ideed ka reaalses maailmas testima, otsustasin, et tüütan oma kolleegi IT-firmast. Skype videokõne vahendusel pidas Henno [<a href="http://diara.ee">Diara OÜ</a> tehniline konsultant, juhatuse liige] kahe tiimiga tunniajase diskussiooni ning andis soovitusi idee/esitluse parandamiseks.
+Köögitoimkond tegi pitsat, võitja-ideid viimistleti. Kell oli üheksa. Kuna noored pidid oma ideed ka reaalses maailmas testima, otsustasin, et tüütan oma kolleegi IT-firmast. Skype videokõne vahendusel pidas Henno \[<a href="http://diara.ee">Diara OÜ</a> tehniline konsultant, juhatuse liige\] kahe tiimiga tunniajase diskussiooni ning andis soovitusi idee/esitluse parandamiseks.
 
 Viimistletud idee presenteeriti teistele noortekeskustele ning üks võistkond tegi esitlusest ka <a href="http://www.youtube.com/watch?v=DwscRDDHbo8">YouTube videosalvestise</a>, mille vaba tarkvaraga kokku lõikasin. Osalejaid autasustati ning tõmbasime otsad kokku. Pakkisime asjad ning Triinu viis meid Tartu bussijaama.
 

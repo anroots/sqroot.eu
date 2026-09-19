@@ -16,6 +16,7 @@ tags:
 I ran across "<a href="http://www.youtube.com/watch?v=WfzRlcnq_c0&amp;feature=g-like&amp;context=G2a17e4aALT3OCBgABAA">Poison and Wine</a>" by <a href="https://en.wikipedia.org/wiki/The_Civil_Wars">The Civil Wars</a> yesterday in a YouTube playlist and instantly knew I'd found the song that'll haunt me for the rest of the week (if not longer). Such intense emotions and spirit, not the mention the meaning behind the words.
 Anyhow, the song is an inspiring one and below are alternate lyrics, composed by yours truly... that convey a slightly different message.
 <h3>Alternative lyrics to "Poison And Wine" by The Civil Wars</h3>
+
 ```
 [John]: The saddest part you don't even know
 [Joy]: What used to be is gone somehow

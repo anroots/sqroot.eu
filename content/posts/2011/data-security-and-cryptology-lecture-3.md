@@ -38,6 +38,7 @@ Safeguards can be divided into 3 classes:
 </li>
 </ol>
 <h3>Identifying safeguards</h3>
+
 Goals:
 <ul>
 <li>Avoiding the incident</li>

@@ -37,10 +37,12 @@ We've built a convenient self-service tool to offer people who use Facebook the 
  In this download, we've included all the data that <span style="text-decoration: underline"><strong>we believe</strong></span> necessary to comply with the requirements of data protection law.
 - Annotated excerpts from the email
 </blockquote>
+
 However, from europe-v-facebook.org:
 <blockquote>
 Facebook is sending out e-mails in which they claim that you can <strong>download all data</strong> via the “account settings” page on their web page. In fact you only get a minimal amount of data when downloading this file (about 22 data categories instead of more than 76!)
 </blockquote>
+
 I'll have to wait some more until 40 days from my <span style="text-decoration: underline">third</span> data request (1: online form, 2: e-mail to datarequests@facebook.com, 3: handwritten letter) pass, then I can (and most likely will) file a complaint to <a href="http://www.europe-v-facebook.org/EN/Get_your_Data_/File_a_Comlaint/file_a_comlaint.html">the Irish DPC</a>.
 
 

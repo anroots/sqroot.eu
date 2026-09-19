@@ -13,7 +13,7 @@ Have you ever caught yourself pondering over the following question: "Do I want 
 
 If the answer is YES, fear no more! The following Java applet has the answer. Just click on the link below to get a 99.9% accurate recommendation on which beverage you secretly crave at the moment.
 
-_[Disclaimer: The authors of the applet can't be sued. Blame pseudo-random number generators.]_
+_\[Disclaimer: The authors of the applet can't be sued. Blame pseudo-random number generators.\]_
 
 Whatever will it be? Whatever will it be? Will it be coffee? Will it be tea?
 
@@ -21,5 +21,5 @@ Whatever will it be? Whatever will it be? Will it be coffee? Will it be tea?
 
 The Java source code for the applet is as follows:
 
-::gist{id="2656972" file="Beverage.java"}
+::gist{id="2656972"}
 ::

@@ -18,5 +18,5 @@ Tekstide genereerimisega aitas `solvangud.ee`, sealt sai vastused tekstifaili s
 Idee: kasutada tekstifaili asemel suvalist lähtekoodifaili. Kood pole põhjalikult testitud.
 
 Enne käivitamist tuleb samasse kausta teha fail solvangud.txt ning igale reale paigutada üks lause, mida robot vastama hakkab.
-::gist{id="2656981" file="insult.py"}
+::gist{id="2656981"}
 ::

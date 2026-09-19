@@ -34,11 +34,11 @@ The boat to Helsinki was at 8 am, which meant little sleep and an early start. I
 
 We had some free time in Helsinki and people scattered. Some to shops, others for lunch, I to wander the streets. I stick to my last-year impression: the architecture of Helsinki is tall, monotonous and just a bit unnervingly creepy. There was a lot of beauty too, like a <a href="http://www.ted.com/talks/amanda_palmer_the_art_of_asking.html">living statue</a> of Darth Vader, dressed in black despite the blazing heat.
 
-Finland is an expensive country compared to Estonia. Simple items cost twice or more and yes, now I get why the Finns drink alcohol freely when visiting their southern cousin... but the thing I felt most crossed about was the following comparison: public restroom in VR station: 1 €. The album of my favourite Finnish band, Nightwish: 5 € [a sandwich costs about the same].
+Finland is an expensive country compared to Estonia. Simple items cost twice or more and yes, now I get why the Finns drink alcohol freely when visiting their southern cousin... but the thing I felt most crossed about was the following comparison: public restroom in VR station: 1 €. The album of my favourite Finnish band, Nightwish: 5 € \[a sandwich costs about the same\].
 
 ![Senja](/content/2013/06/fiif/senja.jpg)
 
-Ten minute walk from the VR station in Tampere and we found ourselves in [Dreamhostel](http://www.dreamhostel.fi/fi/etusivu), checking in and greeting the man himself, cheerful as ever. Jaa! was split to two rooms, sharing with <a href="http://joo.fi">Improvisaatioteatteri JOO!</a>, our northern counterpart [Improgrupp Jaa! = Improvisaatioteatteri JOO! = Improv group/theater Yes!]. Registration fees were exchanged (I believe this was the most cash any of us had had with them for a long time) and blue festival shirts and passes were handed out. Trent made good-hearted fun on my beard.
+Ten minute walk from the VR station in Tampere and we found ourselves in [Dreamhostel](http://www.dreamhostel.fi/fi/etusivu), checking in and greeting the man himself, cheerful as ever. Jaa! was split to two rooms, sharing with <a href="http://joo.fi">Improvisaatioteatteri JOO!</a>, our northern counterpart \[Improgrupp Jaa! = Improvisaatioteatteri JOO! = Improv group/theater Yes!\]. Registration fees were exchanged (I believe this was the most cash any of us had had with them for a long time) and blue festival shirts and passes were handed out. Trent made good-hearted fun on my beard.
 
 ![Karaoke](/content/2013/06/fiif/karaoke.jpg)
 
@@ -46,7 +46,7 @@ Some of Jaa! ended up on a private-ish city tour with a cheerful volunteer from 
 
 <h1>Day #2</h1>
 
-Wednesday marked the beginning of what was to become (a good kind of) routine: waking at nine, shower and breakfast [or not, as it most commonly happened], warm-up event at ten, a 3-hour workshop with one of the instructors during the day and several improv shows at <a href="http://www.tampereenylioppilasteatteri.net">Tampereen Ylioppilasteatteri</a> in the evenings. Afterparty shows well over midnight at OC's. This schedule saw little opportunities for lunch / dinner, indeed, in most cases I was living off water and whatever I could eat on the go; crashing to bed each night, spent and satisfied.
+Wednesday marked the beginning of what was to become (a good kind of) routine: waking at nine, shower and breakfast \[or not, as it most commonly happened\], warm-up event at ten, a 3-hour workshop with one of the instructors during the day and several improv shows at <a href="http://www.tampereenylioppilasteatteri.net">Tampereen Ylioppilasteatteri</a> in the evenings. Afterparty shows well over midnight at OC's. This schedule saw little opportunities for lunch / dinner, indeed, in most cases I was living off water and whatever I could eat on the go; crashing to bed each night, spent and satisfied.
 
 <h2>Ryan Millar: Taking It Easy – Learning to Get Out of Your Own Way</h2>
 <blockquote>
@@ -81,11 +81,11 @@ Our format requires intense concentration from the sound guy (having to follow t
 
 <h3>4fun (<a href="http://www.spiediens.com">spiediens.com</a> / rigasimprovizacijasteatris.lv) [Latvia]</h3>
 
-4fun was a team combined from two groups in Latvia and performed short-form games with some unique twists and offers. Audience members were "asked" to come to the stage and help (including one totally innocent [def: unruined by the ways of improv comedy] Estonian actor and some not so innocent comrades). They'd also put two girls on chairs, with a bell and try to approach them; each bell ring marked failure. The guys lifespan could be measured in one digit numbers. Hilarious, honest humor.
+4fun was a team combined from two groups in Latvia and performed short-form games with some unique twists and offers. Audience members were "asked" to come to the stage and help (including one totally innocent \[def: unruined by the ways of improv comedy\] Estonian actor and some not so innocent comrades). They'd also put two girls on chairs, with a bell and try to approach them; each bell ring marked failure. The guys lifespan could be measured in one digit numbers. Hilarious, honest humor.
 
 <h3><a href="http://www.jadajadaimprov.com/">JadaJada</a> [Finland]</h3>
 
-This was the team most familiar to me, indeed we've had <a href="/2012/two-magical-nights">some fun times</a> together. The format was a long-form with short-form group games mixed in. As an improviser myself, I mostly always watch improv with insiders eyes and it was interesting to try to identify the games the team organically incorporated. Especially some short, Finnish-accented, unexpected punch lines ("I have a problem.... every Saturday morning... I wake up. [pause]").
+This was the team most familiar to me, indeed we've had <a href="/2012/two-magical-nights">some fun times</a> together. The format was a long-form with short-form group games mixed in. As an improviser myself, I mostly always watch improv with insiders eyes and it was interesting to try to identify the games the team organically incorporated. Especially some short, Finnish-accented, unexpected punch lines ("I have a problem.... every Saturday morning... I wake up. \[pause\]").
 
 <h1>Day #3</h1>
 <h2>Contact Improvisation</h2>
@@ -156,7 +156,7 @@ Three minimum cast short shows were played at O'Connell's, amongst them Ryan's a
 
 The group from the previous day had changed so we started with the basics again... but moved on to more dynamic movements quickly. The first day had been an introduction to trust, listening and movement and those skills were now put to good use as equal partners explored their bodies and ways of movement.
 
-The experience was extremely satisfying and [at least for me] therapeutic. Recommended reading: <a href="http://jungland.ru/Library/Ex/EngCI.htm">"The Contact Duet as a Paradigm<br />
+The experience was extremely satisfying and \[at least for me\] therapeutic. Recommended reading: <a href="http://jungland.ru/Library/Ex/EngCI.htm">"The Contact Duet as a Paradigm<br />
 for Client/Therapist Interaction"</a>, a thesis paper by Adwoa Lemieux. I was disheartened to find no solid evidence of beginner/casual CI activity in Estonia.
 
 <h2>JStar Atlanta: Just The 2 Of Us</h2>
@@ -194,7 +194,7 @@ I was on stage with some wonderful people. Unfortunately, I did not feel sure in
 
 <h3><a href="http://www.facebook.com/pages/Zarzamora/126236170779574">¡Zarzamora!</a> [USA]</h3>
 
-What ensued can only be described as "What if the cast of Whose Line [the US version, silly] decided to do long-form?". ¡Zarzamora! was perhaps the oldest [in terms of individual actors] team present and that was obvious in the expertise they carried their show. The story of the invention of the humble doorbell was as amusing as it was spontaneous. Lots of honest and sometimes sarcastic humor. Lots of energy... and more than enough laughter.
+What ensued can only be described as "What if the cast of Whose Line \[the US version, silly\] decided to do long-form?". ¡Zarzamora! was perhaps the oldest \[in terms of individual actors\] team present and that was obvious in the expertise they carried their show. The story of the invention of the humble doorbell was as amusing as it was spontaneous. Lots of honest and sometimes sarcastic humor. Lots of energy... and more than enough laughter.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-q4rCi-cvps" frameborder="0" allowfullscreen></iframe>
 
@@ -222,7 +222,7 @@ Rod taught a special workshop wherein three long-form formats were introduced in
 
 I've heard of improvisers doing Shakespeare plays... but Finnish family drama, performed by an expert cast? This show was different from all of the others in that its aim was not to be funny. The more infrequent laughter pauses didn't mean that the show was boring, on the contrary, I found myself leaning forwards and doing all sorts of things with my facial muscles as the drama unfolded.
 
-The tempo of the show was slower and somber, lots of dramatic moments, the most prominent of them the tragic suicide of a small boy... which also turned into stark contrast moments later: Simo Routarinne's character shot himself, his father sang a dreadfully sad song and... <strong>AND</strong>...! Simo couldn't contain his laughter [the body was still on stage], the characters noticed and he was brought back to life. The boy was dead no more and the pregnant woman was unpreagnanted <em>(©)</em>.
+The tempo of the show was slower and somber, lots of dramatic moments, the most prominent of them the tragic suicide of a small boy... which also turned into stark contrast moments later: Simo Routarinne's character shot himself, his father sang a dreadfully sad song and... <strong>AND</strong>...! Simo couldn't contain his laughter \[the body was still on stage\], the characters noticed and he was brought back to life. The boy was dead no more and the pregnant woman was unpreagnanted <em>(©)</em>.
 
 Although Trent said the cast came together for the first and the last time, for only one play, I'd certainly like to see them more.
 

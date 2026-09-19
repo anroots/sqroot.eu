@@ -27,7 +27,7 @@ Cloud is the way to go. We started with the mainframes and have reached an era w
 We can bill you elastically. SLA-driven architecture and extreme standardization.<br />
 10-15% of failed HDD-s on a stack of server machines is an acceptable loss; we only interfere when we reach a critical level. We try to keep the human factor in a data center as low as possible with one person maybe managing 10 000 servers.<br />
 The cloud is a big oppurtunity. We need the cloud to connect different devices from watches to PC-s. We're providing software for both the public and the private cloud. Put stuff that needs bursts of performance in the public cloud. We give you a secure and standard-compliant platform to run your application.<br />
-We don't believe everything will be moved to the cloud, the future will be a kind of a hybrid. We'd like to open up the [Azure] platform because there are other technologies besides Microsoft's out there who could benefit from it.
+We don't believe everything will be moved to the cloud, the future will be a kind of a hybrid. We'd like to open up the \[Azure\] platform because there are other technologies besides Microsoft's out there who could benefit from it.
 
 ### Azure security
 
@@ -47,7 +47,7 @@ When you become the next Facebook overnight...you need the cloud to scale your a
 <li>Can also do tricks with voice recognition!</li>
 </ul>
 
-Demo: moving skeleton with joints recognized. <em>Error: SkeletonDemo has stopped working. [System malfunction for ~8 minutes]</em>
+Demo: moving skeleton with joints recognized. <em>Error: SkeletonDemo has stopped working. \[System malfunction for ~8 minutes\]</em>
 
 Windows phone philosophy: People vs. Icons. We put people first.
 
@@ -55,7 +55,7 @@ Windows phone philosophy: People vs. Icons. We put people first.
 
 Porting apps to Phone 7 with .NET and Visual Studio is easy! We have a full infrastructure for PUSH notifications. We need to build social apps.
 
-<em>[Demo for simple PUSH system. Doesn't work, reason unknown.]</em>
+<em>\[Demo for simple PUSH system. Doesn't work, reason unknown.\]</em>
 
 There is a lot of cool stuff you can do with HTML5. Microsoft has invested heavily in the tools to help you build HTML5 and having them will be critical to your success.
 
@@ -63,11 +63,11 @@ Question from the audience. Answer: Estonia support for the Phone 7 will come, b
 
 > (Remarque from a live demo): Whoever reads the EULA? Let's make the lawyers happy.
 
-FabriCamp demo - scalable Azure infrastructure deployment.<em> [The demo doesn't succeed, several error messages].</em>
+FabriCamp demo - scalable Azure infrastructure deployment.<em> \[The demo doesn't succeed, several error messages\].</em>
 
 # Developer Session #1: HTML5 - Myth and Reality. How industry is changing and why?
 
-A brief history of HTML from 1997. Static pages, Netscape browser design. Because of plugins like flash and Silverlight we, the browser vendors, decided to sit down and work on a new version of HTML. We want to use the GPU for graphics acceleration. Javascript performance has increased dramatically since the beginning [of the Internet].
+A brief history of HTML from 1997. Static pages, Netscape browser design. Because of plugins like flash and Silverlight we, the browser vendors, decided to sit down and work on a new version of HTML. We want to use the GPU for graphics acceleration. Javascript performance has increased dramatically since the beginning \[of the Internet\].
 
 The web and expectations have changed, but HTML hadn't. That's the reason for HTML5.
 

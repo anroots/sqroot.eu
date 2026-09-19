@@ -27,7 +27,7 @@ I used to sit very close to the office's outer door. As we had no secretary, it 
 I was annoyed by the repeating "ding-dong" ringtone and was motivated to do something about it: what if the doorbell
 could speak, and express its feelings? What if I built my own doorbell, that was snarky?
 
-I had [previously messed around with our wireless doorbell](https://sqroot.eu/2015/office-prank-building-a-secondary-remote-to-a-wireless-doorbell) and thought it would be a quick and easy project. Boy, was I wrong - it took over two years to complete it, with various technical challenges.
+I had [previously messed around with our wireless doorbell](/2015/office-prank-building-a-secondary-remote-to-a-wireless-doorbell) and thought it would be a quick and easy project. Boy, was I wrong - it took over two years to complete it, with various technical challenges.
 
 ## The Build
 
