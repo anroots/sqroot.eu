@@ -20,7 +20,6 @@
     "generate": "nuxt generate && node scripts/postbuild.mjs",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
-    "verify": "node scripts/verify-migration.mjs",
     "pages:dev": "wrangler pages dev .output/public"
   },
   "dependencies": {

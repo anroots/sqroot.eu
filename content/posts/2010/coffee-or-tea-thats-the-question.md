@@ -17,7 +17,7 @@ _\[Disclaimer: The authors of the applet can't be sued. Blame pseudo-random numb
 
 Whatever will it be? Whatever will it be? Will it be coffee? Will it be tea?
 
-<applet code="/content/2010/11/Beverage.class" width="300" height="100"></applet>
+_(The Java applet that lived here no longer runs: browsers dropped Java applet support years ago.)_
 
 The Java source code for the applet is as follows:
 

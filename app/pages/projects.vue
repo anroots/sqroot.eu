@@ -18,7 +18,7 @@ useHead({ link: [{ rel: 'canonical', href: absoluteUrl('/projects') }] })
       </div>
       <p class="mt-12 text-center text-lg">
         More projects: check out my GitHub profile - almost everything I do is
-        <a href="https://github.com/anroots" target="_blank" rel="noopener" class="text-brand underline">open-sourced on GitHub</a>.
+        <a href="https://github.com/anroots" target="_blank" class="text-brand underline">open-sourced on GitHub</a>.
       </p>
     </div>
   </div>

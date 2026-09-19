@@ -19,7 +19,7 @@ tags:
 <li>&raquo; The next month: <a href="/2014/military-service-month-5-november-2013">Military Service - Month #5 (November 2013)</a></li>
 </ul>
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:6TbJb7XcP1JtB7NOy3AL46" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+<iframe src="https://open.spotify.com/embed/track/6TbJb7XcP1JtB7NOy3AL46" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
 
 <h1>Week #14 (01 - 06 October)</h1>
 
@@ -61,7 +61,7 @@ Finally, after three years, I get the official, plastic drivers licence, having 
 
 The SBC does a 2k test hike in full gear (this was a torture for me) while we march off to see an opera in the National Opera house: <a href="http://www.opera.ee/en/lavastus/la-traviata-2/">La Traviata</a> (first opera experience). We're greeted by an Italian-speaking Verdi himself, the lobby is old-fashioned and the man himself has such demeanor...
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/34lKxxubyoA" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/34lKxxubyoA" frameborder="0" allowfullscreen></iframe>
 
 A friend who works at the opera house later sent me this:
 

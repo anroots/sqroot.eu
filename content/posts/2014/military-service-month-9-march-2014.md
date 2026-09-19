@@ -154,7 +154,7 @@ Dude. You know we're working around there and don't bother to make haste? We run
 
 The Guard Battalion did their morning wake-up call a bit differently. That's awesome!
 
-<iframe src="//www.youtube.com/embed/E_2Du_sUUbc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/E_2Du_sUUbc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <h1>Week #39 (24 - 31 of March)</h1>
 

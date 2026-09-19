@@ -44,10 +44,10 @@ The training consists of ~90 minutes of theory and ~150 minutes of hands on lab 
 
 
 <div class="not-prose my-10 grid grid-cols-2 gap-4 md:grid-cols-4">
-  <a href="/content/site/workshops/http-sec-headers/slide1.png" target="_blank" rel="noopener" class="block rounded-sm border border-neutral-200 p-1 transition hover:border-brand dark:border-neutral-700"><img class="h-auto w-full" src="/content/site/workshops/http-sec-headers/slide1.png" alt="Slide sample" loading="lazy"></a>
-  <a href="/content/site/workshops/http-sec-headers/slide2.png" target="_blank" rel="noopener" class="block rounded-sm border border-neutral-200 p-1 transition hover:border-brand dark:border-neutral-700"><img class="h-auto w-full" src="/content/site/workshops/http-sec-headers/slide2.png" alt="Slide sample" loading="lazy"></a>
-  <a href="/content/site/workshops/http-sec-headers/slide3.png" target="_blank" rel="noopener" class="block rounded-sm border border-neutral-200 p-1 transition hover:border-brand dark:border-neutral-700"><img class="h-auto w-full" src="/content/site/workshops/http-sec-headers/slide3.png" alt="Slide sample" loading="lazy"></a>
-  <a href="/content/site/workshops/http-sec-headers/slide4.png" target="_blank" rel="noopener" class="block rounded-sm border border-neutral-200 p-1 transition hover:border-brand dark:border-neutral-700"><img class="h-auto w-full" src="/content/site/workshops/http-sec-headers/slide4.png" alt="Hacked website" loading="lazy"></a>
+  <a href="/content/site/workshops/http-sec-headers/slide1.png" target="_blank" class="block rounded-sm border border-neutral-200 p-1 transition hover:border-brand dark:border-neutral-700"><img class="h-auto w-full" src="/content/site/workshops/http-sec-headers/slide1.png" alt="Slide sample" loading="lazy"></a>
+  <a href="/content/site/workshops/http-sec-headers/slide2.png" target="_blank" class="block rounded-sm border border-neutral-200 p-1 transition hover:border-brand dark:border-neutral-700"><img class="h-auto w-full" src="/content/site/workshops/http-sec-headers/slide2.png" alt="Slide sample" loading="lazy"></a>
+  <a href="/content/site/workshops/http-sec-headers/slide3.png" target="_blank" class="block rounded-sm border border-neutral-200 p-1 transition hover:border-brand dark:border-neutral-700"><img class="h-auto w-full" src="/content/site/workshops/http-sec-headers/slide3.png" alt="Slide sample" loading="lazy"></a>
+  <a href="/content/site/workshops/http-sec-headers/slide4.png" target="_blank" class="block rounded-sm border border-neutral-200 p-1 transition hover:border-brand dark:border-neutral-700"><img class="h-auto w-full" src="/content/site/workshops/http-sec-headers/slide4.png" alt="Hacked website" loading="lazy"></a>
 </div>
 
 <div class="not-prose my-10 flex flex-wrap justify-center gap-4">

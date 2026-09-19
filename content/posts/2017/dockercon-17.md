@@ -39,7 +39,7 @@ It's a very powerful product; I was quite impressed. Sadly, it's paid (not usabl
 
 I've seen Docker images of 700+MB, where developers have "just used Ubuntu" as their base image while Alpine would have worked, too. It is important to understand how to build Docker images that are small, because they build and pull faster and consume less disk space.
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/abbyfuller?ref_src=twsrc%5Etfw">@abbyfuller</a> on how to get devs to care about disk space: &quot;Put devs oncall. You build it, you run it... Because no one wants to wake @ night&quot;</p>&mdash; Ando David Roots (@SQrooted) <a href="https://twitter.com/SQrooted/status/920284177999818752?ref_src=twsrc%5Etfw">October 17, 2017</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/abbyfuller">@abbyfuller</a> on how to get devs to care about disk space: &quot;Put devs oncall. You build it, you run it... Because no one wants to wake @ night&quot;</p>&mdash; Ando David Roots (@SQrooted) <a href="https://twitter.com/SQrooted/status/920284177999818752">October 17, 2017</a></blockquote>
 
 ## Culture
 
@@ -74,7 +74,7 @@ both open source as well as in-house projects.
 - While London is big in a sense that there are 9 million people and the streets are too tight and jammed, Copenhagen is huge in the sense that the buildings are big, with lots of open space between them
 - Docker community is large and growing fast
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/lifeatbigbank?ref_src=twsrc%5Etfw">@lifeatbigbank</a> Absolutely loved my first <a href="https://twitter.com/hashtag/DockerCon?src=hash&amp;ref_src=twsrc%5Etfw">#DockerCon</a> and seeing the people who make Docker happen. Will go home with ideas and inspiration. <a href="https://t.co/UzXcdZq0gS">pic.twitter.com/UzXcdZq0gS</a></p>&mdash; Ando David Roots (@SQrooted) <a href="https://twitter.com/SQrooted/status/920693726221094912?ref_src=twsrc%5Etfw">October 18, 2017</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/lifeatbigbank">@lifeatbigbank</a> Absolutely loved my first <a href="https://twitter.com/hashtag/DockerCon?src=hash">#DockerCon</a> and seeing the people who make Docker happen. Will go home with ideas and inspiration. <a href="https://t.co/UzXcdZq0gS">pic.twitter.com/UzXcdZq0gS</a></p>&mdash; Ando David Roots (@SQrooted) <a href="https://twitter.com/SQrooted/status/920693726221094912">October 18, 2017</a></blockquote>
 
 Overall, the conference was educational and enjoyable. My three takeaways:
 

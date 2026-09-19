@@ -305,7 +305,7 @@ I still think the military is not the place for me. My mood and self-respect wer
 
 Kaitseväe huumorit.
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/1ewxWZ-8t98?list=PLXWvZQgFkf3MKzsKGbWuDyxQYqWfdd14N" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1ewxWZ-8t98?list=PLXWvZQgFkf3MKzsKGbWuDyxQYqWfdd14N" frameborder="0" allowfullscreen></iframe>
 
 <em>Photographs in this post: the first day of SBC final hike, MSG Ov, digitally altered.</em>
 

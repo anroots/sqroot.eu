@@ -26,5 +26,5 @@ The show has changed and I'm unable to get emotional satisfaction from the episo
 There's of course a merit to both approaches, but in my opinion, there are enough shows to entertain children yet too few of the likes the beginning of the Doctor Who reboot: shows that tell amazing stories while also staying true to humanity, realism (okay, it's a sci-fi show, but still...) and appealing to both audiences - adult and children.
 
 Here's a some audio-visual comparison between the past and the present as well:
-<iframe src="https://www.youtube.com/embed/z8Yssg1FBYg?rel=0" frameborder="0" width="640" height="360"></iframe>
-<iframe src="https://www.youtube.com/embed/Oo2RKAHu-kI?rel=0" frameborder="0" width="640" height="360"></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/z8Yssg1FBYg?rel=0" frameborder="0" width="640" height="360"></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/Oo2RKAHu-kI?rel=0" frameborder="0" width="640" height="360"></iframe>

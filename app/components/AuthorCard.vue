@@ -18,7 +18,7 @@ const site = useSite()
     <h1 class="mt-4 text-4xl font-extrabold tracking-tight sm:text-5xl">{{ site.author }}</h1>
     <p class="mt-3 text-lg text-ink-muted dark:text-neutral-400">
       {{ site.tagline }}
-      (<a href="https://estonia.ee/" target="_blank" rel="noopener" title="Estonian" class="inline-block align-baseline">
+      (<a href="https://estonia.ee/" target="_blank" title="Estonian" class="inline-block align-baseline">
         <svg class="inline size-[1em] align-[-0.1em]" viewBox="0 0 640 480" xmlns="http://www.w3.org/2000/svg" aria-label="Estonian flag" role="img">
           <rect width="640" height="480" fill="#000" />
           <rect width="640" height="160" y="320" fill="#fff" />

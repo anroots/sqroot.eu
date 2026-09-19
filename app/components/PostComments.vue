@@ -16,7 +16,7 @@ defineProps<{
     <ol class="mt-6 space-y-6">
       <li v-for="c in comments" :key="c.id" class="rounded-sm border border-neutral-200 p-5 dark:border-neutral-800">
         <p class="text-sm">
-          <a v-if="c.author_url" :href="c.author_url" rel="nofollow noopener ugc" target="_blank" class="font-extrabold hover:text-brand">{{ c.author }}</a>
+          <a v-if="c.author_url" :href="c.author_url" rel="nofollow ugc" target="_blank" class="font-extrabold hover:text-brand">{{ c.author }}</a>
           <span v-else class="font-extrabold">{{ c.author }}</span>
           <span class="text-ink-muted dark:text-neutral-500"> · <time :datetime="c.date">{{ formatDate(c.date) }}</time></span>
         </p>

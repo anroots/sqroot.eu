@@ -74,11 +74,11 @@ The men go to weekend passes, but mine is nowhere to be found. MSG Ls had forgot
 
 Lone Survivor is the scariest (in the sense that it feels so real, especially to those who have been in the army) war movie I've seen.
 
-<iframe src="//www.youtube.com/embed/yoLFk4JK_RM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/yoLFk4JK_RM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 ... and Enlisted is hilarious, in contrast.
 
-<iframe src="//www.youtube.com/embed/ZNgeueVai-Y" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/ZNgeueVai-Y" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 I got into software defined radios a while back and ordered a <a href="http://www.notonlytv.net/p_lv5tdeluxe.html">SDR USB receiver</a>, which now arrived. My goal is to use it to listen to public services chatter, but theoretically, it should be fair game to receive Motorola GP unencrypted chatter (around 140 MHz) as well.
 

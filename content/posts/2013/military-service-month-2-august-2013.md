@@ -243,7 +243,7 @@ Our career choices are explained, at last. There are many positions, but only tw
 
 We visit <a href="http://uudised.err.ee/?06286112">a patriotic concert in Liberty Square</a>. It's rainy, but the emotions are high. Estonians like to <a href="http://en.wikipedia.org/wiki/Singing_Revolution">sing about their country</a>. Famous Estonian singers sing and the visuals are stunning. My favorite orchestra <a href="https://www.facebook.com/reaalmazoor">Reaalmažoor</a> plays, the violins were especially awesome.
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/MRHlrDGBfyY" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/MRHlrDGBfyY" frameborder="0" allowfullscreen></iframe>
 
 <h2>Seaside and lanterns</h2>
 
@@ -276,7 +276,7 @@ The shoreline was beautiful in the night: the lights of the harbor and the city.
 
 YouTube's leidub huvitavat huumorit. Näiteks:
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/xZuSIVRUR_w" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/xZuSIVRUR_w" frameborder="0" allowfullscreen></iframe>
 
 Leidsin ka võitluskaaslase blogi, kes teenib minuga samal aastal: <a href="http://ajateenistus.blogspot.com">Ajateenistus Logistikapataljonis aastail 2013-2014</a>
 

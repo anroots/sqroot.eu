@@ -16,7 +16,6 @@ const site = {
   postsPerPage: 15,
   socials: [
     { name: 'RSS feed', url: '/feed.xml', icon: 'lucide:rss' },
-    { name: 'Twitter', url: 'https://twitter.com/SQrooted', icon: 'simple-icons:x' },
     { name: 'GitHub', url: 'https://github.com/anroots', icon: 'simple-icons:github' },
     { name: 'LinkedIn', url: 'https://www.linkedin.com/in/anroots', icon: 'simple-icons:linkedin' },
   ] as SocialLink[],

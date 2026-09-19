@@ -26,7 +26,6 @@ watch(() => route.path, () => { open.value = false })
           <NuxtLink
             :to="item.to"
             :target="item.external ? '_blank' : undefined"
-            :rel="item.external ? 'noopener' : undefined"
             class="label-caps block border-2 border-transparent px-3 py-2 no-underline transition-colors hover:border-current"
             active-class="text-brand"
           >
@@ -42,7 +41,6 @@ watch(() => route.path, () => { open.value = false })
         <NuxtLink
           :to="item.to"
           :target="item.external ? '_blank' : undefined"
-          :rel="item.external ? 'noopener' : undefined"
           class="label-caps block py-3 no-underline"
           active-class="text-brand"
         >

@@ -13,7 +13,7 @@ Spoilers!
 
 The Eleventh Doctor is gone.
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/7GhY-ds2Kfk" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7GhY-ds2Kfk" frameborder="0" allowfullscreen></iframe>
 
 <blockquote>
 
@@ -39,5 +39,5 @@ The special was great, tied up lots of unanswered questions (and created new one
 
 </blockquote>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4F84WapAH7M" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4F84WapAH7M" frameborder="0" allowfullscreen></iframe>
 

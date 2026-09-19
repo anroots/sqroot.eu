@@ -36,7 +36,6 @@ useSeoMeta({
   ogDescription: site.description,
   ogType: 'website',
   ogImage: absoluteUrl(site.headerImage),
-  twitterCard: 'summary',
 })
 useHead({ link: [{ rel: 'canonical', href: absoluteUrl(props.page > 1 ? `/page${props.page}` : '/') }] })
 </script>

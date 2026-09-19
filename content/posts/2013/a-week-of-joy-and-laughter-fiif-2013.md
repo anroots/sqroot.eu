@@ -143,13 +143,13 @@ I can say without a doubt that this show had the most brilliantly sarcastic and 
 
 Four directors, four different visions for the next top-of-the-box-office-movie. Only things hardly go according to plan in improv, do they? There's truth in comedy and sometimes, just a bit of playful mockery. As the four world-famous directors tried to play out their vision of a perfect movie, it became a spontaneous running joke that the French director, his star actors and the poor fish didn't reach further than the beginning shot of a river - for several, several scenes... and it wasn't a movie about rivers. There was swearing in deeply accented French and a lot of laughter.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uaXTW17RuI0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/uaXTW17RuI0" frameborder="0" allowfullscreen></iframe>
 
 <h3>One and two-man shows</h3>
 
 Three minimum cast short shows were played at O'Connell's, amongst them Ryan's and Rod's "The Republic".
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/8cYTKShFJxg" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/8cYTKShFJxg" frameborder="0" allowfullscreen></iframe>
 
 <h1>Day #4</h1>
 <h2>Contact Improvisation</h2>
@@ -196,7 +196,7 @@ I was on stage with some wonderful people. Unfortunately, I did not feel sure in
 
 What ensued can only be described as "What if the cast of Whose Line \[the US version, silly\] decided to do long-form?". ¡Zarzamora! was perhaps the oldest \[in terms of individual actors\] team present and that was obvious in the expertise they carried their show. The story of the invention of the humble doorbell was as amusing as it was spontaneous. Lots of honest and sometimes sarcastic humor. Lots of energy... and more than enough laughter.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-q4rCi-cvps" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-q4rCi-cvps" frameborder="0" allowfullscreen></iframe>
 
 <h1>Day #5</h1>
 <h2>Rod Ben Zeev: Long Form Workshop</h2>

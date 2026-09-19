@@ -68,7 +68,7 @@ Luckily, some clever hackers [figured out a way](http://hackaday.com/2012/03/30/
 
 Once I knew the frequency, I could connect my SDR dongle to my laptop and run [a program](http://gqrx.dk) that allowed me to record any radio signals on that frequency. I came to work early, pressed "record", rang the doorbell and captured some samples of a valid signal as a WAV file.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-EamgiVk58" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/f-EamgiVk58" frameborder="0" allowfullscreen></iframe>
 
 ![Recording the signal with a laptop](/content/2015/09/doorbell/recording_signal.jpg)
 ![The original signal from the doorbell](/content/2015/09/doorbell/original_signal1.png)

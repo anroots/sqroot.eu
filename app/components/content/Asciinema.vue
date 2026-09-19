@@ -21,7 +21,7 @@ onMounted(() => {
 <template>
   <div ref="host" class="asciinema not-prose my-6 min-h-24">
     <noscript>
-      <a :href="`https://asciinema.org/a/${id}`" target="_blank" rel="noopener">Watch the terminal recording on asciinema.org</a>
+      <a :href="`https://asciinema.org/a/${id}`" target="_blank">Watch the terminal recording on asciinema.org</a>
     </noscript>
   </div>
 </template>

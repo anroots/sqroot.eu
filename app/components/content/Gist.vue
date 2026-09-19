@@ -16,7 +16,7 @@ const { data: gist } = await useAsyncData(`gist-${props.id}`, () =>
   <div v-if="gist" class="gist not-prose my-6">
     <ContentRenderer :value="gist" class="gist-body" />
     <p class="mt-1 text-right text-xs text-ink-muted dark:text-neutral-500">
-      <a :href="gist.url" target="_blank" rel="noopener" class="hover:text-brand">View gist on GitHub</a>
+      <a :href="gist.url" target="_blank" class="hover:text-brand">View gist on GitHub</a>
     </p>
   </div>
   <p v-else class="text-sm text-ink-muted">Gist {{ id }} is not available.</p>

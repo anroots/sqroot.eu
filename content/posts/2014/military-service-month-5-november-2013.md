@@ -232,5 +232,5 @@ Lõpetasin just [Kunnase](https://www.goodreads.com/book/show/8689190-enne-viima
 
 Rms Mk leidis netist meie rühmalaulu stiliseeritud versiooni:
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/kKYpM0X3ses" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/kKYpM0X3ses" frameborder="0" allowfullscreen></iframe>
 

@@ -16,7 +16,7 @@ const isRemote = computed(() => /^https?:\/\//.test(props.src))
 
 <template>
   <img v-if="isRemote" :src="src" :alt="alt || ''" :width="width" :height="height" loading="lazy" decoding="async" />
-  <a v-else-if="link !== false" :href="src" target="_blank" rel="noopener" class="block cursor-zoom-in" :title="alt || 'Open full size image'">
+  <a v-else-if="link !== false" :href="src" target="_blank" class="block cursor-zoom-in" :title="alt || 'Open full size image'">
     <NuxtImg :src="src" :alt="alt || ''" sizes="576px sm:768px md:992px lg:1200px" densities="x1" format="webp" loading="lazy" decoding="async" class="h-auto w-full" />
   </a>
   <NuxtImg v-else :src="src" :alt="alt || ''" sizes="576px sm:768px md:992px lg:1200px" densities="x1" format="webp" loading="lazy" decoding="async" class="h-auto w-full" />

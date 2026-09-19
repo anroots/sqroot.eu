@@ -48,8 +48,7 @@ Requires Node 22+.
 npm ci               # install dependencies
 npm run dev          # dev server at http://localhost:3000
 npm run generate     # static site → .output/public
-npm run clean        # drop build + content caches (needed after changing modules/content-hooks.ts or scripts/lib/*)
-npm run verify       # compare the generated site with the live one (see scripts/verify-migration.mjs)
+npm run clean        # drop build + content caches (needed after changing modules/content-hooks.ts)
 npm run pages:dev    # serve .output/public with Cloudflare's wrangler (tests _headers / _redirects)
 ```
 

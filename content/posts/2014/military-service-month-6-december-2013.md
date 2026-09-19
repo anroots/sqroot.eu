@@ -145,7 +145,7 @@ Half the battalion gets out for Christmas, the second half during New Years. Chr
 - Sest meie pataljon on ainus, kes jõuludeks sisse jääb" - rms Sa
 </blockquote>
 
-<iframe src="//www.youtube.com/embed/puJe32FfuhI?list=UUd1_beNidAkXc4_njJPkC8g" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/puJe32FfuhI?list=UUd1_beNidAkXc4_njJPkC8g" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <blockquote>
 Pvt Ka: "Can you speak any other languages besides Estonian?"<br />

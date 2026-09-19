@@ -86,7 +86,7 @@ Moonica - the name of our animal - was stuffed and wrapped and given to the birt
 
 The project was great fun to do and also taught us a lot. I got into electronics in January 2013 and this was the first "official", non-prototype build. I learned to program in C / Arduino, got to try out PWM and implement serial interfacing.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/a_wgeVvpjbw" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/a_wgeVvpjbw" frameborder="0" allowfullscreen></iframe>
 
 <h1>Links</h1>
 <ul>

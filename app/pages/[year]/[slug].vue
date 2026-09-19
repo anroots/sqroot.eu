@@ -32,11 +32,6 @@ useSeoMeta({
   articlePublishedTime: new Date(post.value.date).toISOString(),
   articleSection: post.value.category,
   articleTag: post.value.tags,
-  twitterCard: 'summary_large_image',
-  twitterSite: '@SQrooted',
-  twitterTitle: post.value.title,
-  twitterDescription: description,
-  twitterImage: image,
 })
 useHead({
   link: [{ rel: 'canonical', href: absoluteUrl(path) }],
@@ -60,10 +55,10 @@ useHead({
 </script>
 
 <template>
-  <div v-if="post" itemscope itemtype="https://schema.org/BlogPosting">
+  <div v-if="post">
     <PostHeader :title="post.title" :subtitle="post.subtitle" :date="post.date" :reading-time="post.readingTime" :image="post.image" />
     <div class="mx-auto max-w-3xl px-4 py-12">
-      <article itemprop="articleBody" class="article">
+      <article class="article">
         <ContentRenderer :value="post" />
       </article>
       <p v-if="post.tags?.length" class="mt-10 flex flex-wrap items-center gap-2 text-xs">

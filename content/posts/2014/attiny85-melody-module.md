@@ -36,5 +36,5 @@ I wonder whether I made a calculation mistake somewhere. 56 148% improvement wit
 
 The project files are available <a href="https://github.com/anroots/attiny85-melody-module">@ GitHub</a>.
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/_KI-yGdVnyY" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/_KI-yGdVnyY" frameborder="0" allowfullscreen></iframe>
 

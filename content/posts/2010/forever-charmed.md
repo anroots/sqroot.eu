@@ -18,4 +18,4 @@ Selle sissekande teema aga puudutab hoopis Charmed _opening theme_'i - "How S
 
 Tänud sõbrale vana hea mälestuse tagasitoomise eest ning lugejad - kuulake allpool olevat lugu ja/või otsige see sari kusagilt üles.
 
-<iframe src="https://www.youtube.com/embed/vsNuZvcKT7k" frameborder="0" width="420" height="315"></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/vsNuZvcKT7k" frameborder="0" width="420" height="315"></iframe>
