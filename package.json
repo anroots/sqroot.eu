@@ -20,7 +20,7 @@
     "generate": "nuxt generate && node scripts/postbuild.mjs",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
-    "pages:dev": "wrangler pages dev .output/public"
+    "wrangler:dev": "wrangler dev"
   },
   "dependencies": {
     "@iconify-json/lucide": "^1.2.0",

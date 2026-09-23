@@ -3,13 +3,10 @@ name: Build & deploy
 on:
   push:
     branches: [master]
-  pull_request:
   workflow_dispatch:
 
 permissions:
   contents: read
-  deployments: write
-  pull-requests: write
 
 concurrency:
   group: deploy-${{ github.ref }}
@@ -36,14 +33,9 @@ jobs:
         env:
           NODE_OPTIONS: --max-old-space-size=4096
 
-      - name: Deploy to Cloudflare Pages
+      - name: Deploy to Cloudflare Workers
         uses: cloudflare/wrangler-action@v4
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: >-
-            pages deploy .output/public
-            --project-name=sqroot-eu
-            --branch=${{ github.head_ref || github.ref_name }}
-            --commit-hash=${{ github.sha }}
-            --commit-dirty=true
+          command: deploy
