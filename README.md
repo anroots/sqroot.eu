@@ -54,8 +54,7 @@ npm run pages:dev    # serve .output/public with Cloudflare's wrangler (tests _h
 
 ## Deployment
 
-`.github/workflows/deploy.yml` runs `npm run generate` and `wrangler pages deploy` on every push.
-Pull requests get a preview deployment; `master` deploys to production.
+`.github/workflows/deploy.yml` runs `npm run generate` and `wrangler deploy` on every push.
 
 Repository secrets: `CLOUDFLARE_API_TOKEN` (Pages: Edit), `CLOUDFLARE_ACCOUNT_ID`.
 The Cloudflare Pages project is `sqroot-eu`; the custom domain `sqroot.eu` is attached in the
