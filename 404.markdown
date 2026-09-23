@@ -1,9 +1,0 @@
----
-layout: page
-title: Page Not Found
-visible: false
----
-
-Sorry - no such page here.
-
-[Back to the front page](https://sqroot.eu)

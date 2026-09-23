@@ -1,0 +1,9 @@
+position: 8
+name: Box of Words
+website: https://sqroot.eu/2014/boxofwords-arduino-based-suggestion-generator-for-improvisers
+github: https://github.com/anroots/box-of-words
+image: /content/site/projects/boxofwords.jpg
+description: >
+  BoxOfWords is a handheld, cigarette-box sized electronics project for
+  improvisational theater practitioners. The purpose of the project is to offer
+  randomized word suggestions during an improv workshop or a training session.

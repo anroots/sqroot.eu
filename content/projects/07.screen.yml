@@ -1,0 +1,9 @@
+position: 7
+name: Screen
+website: https://screen.sqroot.eu
+image: /content/site/projects/screen.png
+github: https://github.com/sqroot-eu/screen-frontend
+description: >
+  Screen is a wallboard app, to be displayed in a tablet. It shows relevant
+  information for (my) home, such as current weather, transportation schedules
+  and investments.

@@ -1,0 +1,8 @@
+position: 1
+name: Home Lab
+image: /content/site/projects/rack.jpg
+description: >
+  I run a 42u server rack at home, complete with enterprise-grade features, such
+  as UPS, PDU, pfSense, managed networking, centralized logging with ELK, PaaS
+  with Openshift 3 (Kubernetes), monitoring with Prometheus and Grana, OpenVPN
+  for remote access and a 24-bay FreeNAS for storage.
