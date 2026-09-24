@@ -23,8 +23,8 @@
     "wrangler:dev": "wrangler dev"
   },
   "dependencies": {
-    "@iconify-json/lucide": "^1.2.0",
-    "@iconify-json/simple-icons": "^1.2.0",
+    "@iconify-json/lucide": "^1.2.135",
+    "@iconify-json/simple-icons": "^1.2.97",
     "@nuxt/content": "^3.16.0",
     "@nuxt/fonts": "^0.14.0",
     "@nuxt/icon": "^2.0.0",
@@ -38,6 +38,6 @@
     "vue-router": "^5.3.1"
   },
   "devDependencies": {
-    "wrangler": "^4.0.0"
+    "wrangler": "^4.135.0"
   }
 }
