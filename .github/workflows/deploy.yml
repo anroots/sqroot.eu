@@ -28,6 +28,21 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      # Restored after npm ci, which wipes node_modules (and node_modules/.cache with it).
+      - name: Restore build cache
+        uses: actions/cache@v6
+        with:
+          path: |
+            node_modules/.cache/nuxt
+            node_modules/.cache/jiti
+            .data
+          # Unique key per run so each build saves a fresh entry; restore-keys fall back
+          # to the newest match, since cache entries are immutable once written.
+          key: nuxt-${{ runner.os }}-${{ hashFiles('package-lock.json') }}-${{ github.sha }}
+          restore-keys: |
+            nuxt-${{ runner.os }}-${{ hashFiles('package-lock.json') }}-
+            nuxt-${{ runner.os }}-
+
       - name: Generate static site
         run: npm run generate
         env:
