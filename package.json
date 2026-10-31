@@ -23,8 +23,8 @@
     "wrangler:dev": "wrangler dev"
   },
   "dependencies": {
-    "@iconify-json/lucide": "^1.2.0",
-    "@iconify-json/simple-icons": "^1.2.0",
+    "@iconify-json/lucide": "^1.2.148",
+    "@iconify-json/simple-icons": "^1.2.101",
     "@nuxt/content": "^3.16.1",
     "@nuxt/fonts": "^0.14.0",
     "@nuxt/icon": "^2.0.0",
