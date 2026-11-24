@@ -36,7 +36,7 @@ The problem appears if the operator decides to _also_ adjust the level of the fa
 
 A motorized fader with feedback configured fixes this - the operator can freely change the fader position via hardware or software, and the other side automatically syncs.
 
-![Animation: moving the software fader moves the physical fader on the X-Touch, due to feedback](/content/2026/feedback.gif)
+::loop-video{src="/content/2026/feedback.mp4" alt="Moving the software fader moves the physical fader on the X-Touch, due to feedback"}
 
 ## Choosing a controller
 
