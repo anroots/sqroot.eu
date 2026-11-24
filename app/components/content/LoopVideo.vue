@@ -3,7 +3,9 @@
  * Short silent looping clip that behaves like a GIF (autoplays muted, inline on mobile).
  * Use an H.264 MP4 so every browser can play it.
  *
- * Usage in markdown:  ::loop-video{src="/content/2026/feedback.mp4" alt="What the clip shows"}
+ * Usage in markdown (the closing :: is required, or the rest of the post becomes its slot):
+ *   ::loop-video{src="/content/2026/feedback.mp4" alt="What the clip shows"}
+ *   ::
  */
 defineProps<{
   src: string
